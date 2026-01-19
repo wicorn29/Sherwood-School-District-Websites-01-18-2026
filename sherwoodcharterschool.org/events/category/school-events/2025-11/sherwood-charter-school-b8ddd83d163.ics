@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251112
+DTEND;VALUE=DATE:20251113
+DTSTAMP:20260118T214848
+CREATED:20250812T173357Z
+LAST-MODIFIED:20250812T173357Z
+UID:11629-1762905600-1762991999@sherwoodcharterschool.org
+SUMMARY:Picture Retake Day
+DESCRIPTION:Retake day is Wednesday\, November 13th. If we did not see you on picture day or you would like a new image\, do not miss out on ordering pictures for your student. If you previously ordered a picture package and will be participating in the retakes\, please send your package with your student to be returned to the photographer. \nOrders may be placed online by searching for Sherwood Charter School at mydorian.com and selecting the green Order button next to the retake day event. Online orders are available up to 2 days after retake day. \nStudents getting their picture taken may wear uniform or nicer on retake day.
+URL:https://sherwoodcharterschool.org/event/picture-retake-day-5/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251112
+DTEND;VALUE=DATE:20251113
+DTSTAMP:20260118T214848
+CREATED:20251117T184944Z
+LAST-MODIFIED:20251117T184944Z
+UID:11944-1762905600-1762991999@sherwoodcharterschool.org
+SUMMARY:Field Trip - 3rd Grade
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-3rd-grade-9/
+CATEGORIES:Field Trip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20251114T163000
+DTEND;TZID=America/Los_Angeles:20251114T180000
+DTSTAMP:20260118T214848
+CREATED:20251030T224049Z
+LAST-MODIFIED:20251113T210455Z
+UID:11923-1763137800-1763143200@sherwoodcharterschool.org
+SUMMARY:Crafty Wares Fair
+DESCRIPTION:Join us for a family friendly Crafty Wares Fair! Facilitated through Sherwood Charter Schools’ middle school art elective\, Leadership Academy students will be gathering from 4:30 – 6pm on Friday\, November 14th to sell their arts and crafts.
+URL:https://sherwoodcharterschool.org/event/crafty-wares-fair-2/
+CATEGORIES:School Events
+ATTACH;FMTTYPE=image/jpeg:https://sherwoodcharterschool.org/wp-content/uploads/2025/10/Crafty-Wares-2025.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+DTSTAMP:20260118T214848
+CREATED:20251117T190011Z
+LAST-MODIFIED:20251117T190011Z
+UID:11951-1763164800-1763251199@sherwoodcharterschool.org
+SUMMARY:Field Trip - MS Robotics
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-ms-robotics-2/
+CATEGORIES:Field Trip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20251118T183000
+DTEND;TZID=America/Los_Angeles:20251118T191500
+DTSTAMP:20260118T214848
+CREATED:20251001T190221Z
+LAST-MODIFIED:20251117T212308Z
+UID:11862-1763490600-1763493300@sherwoodcharterschool.org
+SUMMARY:Middle School Band and Choir Concert
+DESCRIPTION:Join us for our middle school Band and Choir Concert! Doors open at 6:15 pm. \nIf your student is participating\, they should arrive by 5:40pm and come in concert wear. Please contact Mrs. DuPriest with any questions.
+URL:https://sherwoodcharterschool.org/event/middle-school-band-and-choir-concert-8/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251119
+DTEND;VALUE=DATE:20251120
+DTSTAMP:20260118T214848
+CREATED:20251117T184744Z
+LAST-MODIFIED:20251117T184744Z
+UID:11942-1763510400-1763596799@sherwoodcharterschool.org
+SUMMARY:Field Trip - 3rd Grade
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-3rd-grade-8/
+CATEGORIES:Field Trip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251121
+DTSTAMP:20260118T214848
+CREATED:20250812T173252Z
+LAST-MODIFIED:20250812T173252Z
+UID:11627-1763596800-1763683199@sherwoodcharterschool.org
+SUMMARY:Free Dress Day
+DESCRIPTION:Free dress days are the last Thursday of each month for all students. Common-sense guidelines apply such as no torn-out jeans\, no clothes with inappropriate graphic or logos\, or anything that promotes violence\, drugs\, alcohol\, tobacco\, sex\, racism or gang affiliation\, no costume items\, etc. Prohibited articles of clothing include but are not limited to: \n\nPajamas and yoga pants (except on “Pajama Day”)\nTrench coats or capes\nTank tops and spaghetti or thin strap tops\nBare midriff\, or see-through clothing\nForm-fitting pants cannot be worn alone and must follow uniform guidelines as described in section 1(b)(iii) of the uniform policy at all times.\n\nIt is imperative that student attire does not contribute to a hostile or intimidating atmosphere for any student\, and that dress code enforcement does not reinforce or increase marginalization or oppression of any group based on race\, sex\, gender\, identity\, religion\, ethnicity\, or cultural observance. Any such clothing items are not allowed\, and students inappropriately dressed on free dress day will be asked to change. Parents will be contacted and asked to bring a change of clothes. \nIf in doubt as to whether an item is appropriate\, send back-up clothing in the event your child is asked to change. Younger students are also encouraged to bring a change of clothes in their backpacks in case of accidents.
+URL:https://sherwoodcharterschool.org/event/free-dress-day-53/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251121
+DTSTAMP:20260118T214848
+CREATED:20251117T185020Z
+LAST-MODIFIED:20251117T185020Z
+UID:11945-1763596800-1763683199@sherwoodcharterschool.org
+SUMMARY:Field Trip - 4th and 5th Grade
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-4th-and-5th-grade/
+CATEGORIES:Field Trip
+END:VEVENT
+END:VCALENDAR

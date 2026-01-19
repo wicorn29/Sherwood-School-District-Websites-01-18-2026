@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251219
+DTSTAMP:20260118T214854
+CREATED:20251119T164222Z
+LAST-MODIFIED:20251204T204329Z
+UID:11956-1765756800-1766102399@sherwoodcharterschool.org
+SUMMARY:Spirit Week
+DESCRIPTION:Join us for a Student Council hosted Spirit Week starting on Monday\, December 15th! Dress according to the schedule below or in uniform if you choose not to participate. Common-sense guidelines apply! \nMonday\, Dec. 15th: Cozy in PJs Day \nTuesday\, Dec. 16th:  Decades Day (choose a decade to dress up as) \nWednesday\, Dec. 17th: Western Wednesday \nThursday\, Dec. 18th: Sports Day or Free Dress \nIf in doubt as to whether an item is appropriate\, send back-up clothing in the event your child is asked to change.
+URL:https://sherwoodcharterschool.org/event/spirit-week-7/
+CATEGORIES:School Events
+END:VEVENT
+END:VCALENDAR

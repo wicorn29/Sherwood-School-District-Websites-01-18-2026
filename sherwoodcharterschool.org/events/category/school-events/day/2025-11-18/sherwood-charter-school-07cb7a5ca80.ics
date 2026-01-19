@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20251118T183000
+DTEND;TZID=America/Los_Angeles:20251118T191500
+DTSTAMP:20260118T215341
+CREATED:20251001T190221Z
+LAST-MODIFIED:20251117T212308Z
+UID:11862-1763490600-1763493300@sherwoodcharterschool.org
+SUMMARY:Middle School Band and Choir Concert
+DESCRIPTION:Join us for our middle school Band and Choir Concert! Doors open at 6:15 pm. \nIf your student is participating\, they should arrive by 5:40pm and come in concert wear. Please contact Mrs. DuPriest with any questions.
+URL:https://sherwoodcharterschool.org/event/middle-school-band-and-choir-concert-8/
+CATEGORIES:School Events
+END:VEVENT
+END:VCALENDAR

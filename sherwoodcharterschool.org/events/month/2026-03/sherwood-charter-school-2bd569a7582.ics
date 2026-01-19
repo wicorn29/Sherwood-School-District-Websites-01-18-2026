@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+DTSTAMP:20260118T214355
+CREATED:20250812T175714Z
+LAST-MODIFIED:20250812T175714Z
+UID:11651-1772668800-1772755199@sherwoodcharterschool.org
+SUMMARY:End of Trimester 2
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/end-of-trimester-2-7/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+DTSTAMP:20260118T214355
+CREATED:20251001T191303Z
+LAST-MODIFIED:20251001T191303Z
+UID:11864-1773100800-1773187199@sherwoodcharterschool.org
+SUMMARY:2nd and 3rd Grade Music Concert
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/2nd-and-3rd-grade-music-concert-5/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+DTSTAMP:20260118T214355
+CREATED:20260105T214510Z
+LAST-MODIFIED:20260105T214510Z
+UID:11986-1773187200-1773273599@sherwoodcharterschool.org
+SUMMARY:Field Trip - 2nd Grade
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-2nd-grade-9/
+CATEGORIES:Field Trip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+DTSTAMP:20260118T214355
+CREATED:20260105T214539Z
+LAST-MODIFIED:20260105T214539Z
+UID:11987-1773187200-1773273599@sherwoodcharterschool.org
+SUMMARY:Field Trip - 5th Grade
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-5th-grade-9/
+CATEGORIES:Field Trip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+DTSTAMP:20260118T214355
+CREATED:20250812T175809Z
+LAST-MODIFIED:20250812T175822Z
+UID:11653-1773360000-1773446399@sherwoodcharterschool.org
+SUMMARY:Spring Conferences
+DESCRIPTION:Spring Conferences are optional. If you would like to schedule a conference with your child’s teacher\, please email them to arrange a time.
+URL:https://sherwoodcharterschool.org/event/spring-conferences-5/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260318T180000
+DTEND;TZID=America/Los_Angeles:20260318T190000
+DTSTAMP:20260118T214355
+CREATED:20250806T214646Z
+LAST-MODIFIED:20250806T214646Z
+UID:11588-1773856800-1773860400@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-78/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+DTSTAMP:20260118T214355
+CREATED:20250812T180115Z
+LAST-MODIFIED:20250812T180115Z
+UID:11657-1773878400-1773964799@sherwoodcharterschool.org
+SUMMARY:Free Dress Day
+DESCRIPTION:Free dress days are the last Thursday of each month for all students. Common-sense guidelines apply such as no torn-out jeans\, no clothes with inappropriate graphic or logos\, or anything that promotes violence\, drugs\, alcohol\, tobacco\, sex\, racism or gang affiliation\, no costume items\, etc. Prohibited articles of clothing include but are not limited to: \n\nPajamas and yoga pants (except on “Pajama Day”)\nTrench coats or capes\nTank tops and spaghetti or thin strap tops\nBare midriff\, or see-through clothing\nForm-fitting pants cannot be worn alone and must follow uniform guidelines as described in section 1(b)(iii) of the uniform policy at all times.\n\nIt is imperative that student attire does not contribute to a hostile or intimidating atmosphere for any student\, and that dress code enforcement does not reinforce or increase marginalization or oppression of any group based on race\, sex\, gender\, identity\, religion\, ethnicity\, or cultural observance. Any such clothing items are not allowed\, and students inappropriately dressed on free dress day will be asked to change. Parents will be contacted and asked to bring a change of clothes. \nIf in doubt as to whether an item is appropriate\, send back-up clothing in the event your child is asked to change. Younger students are also encouraged to bring a change of clothes in their backpacks in case of accidents.
+URL:https://sherwoodcharterschool.org/event/free-dress-day-57/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260327
+DTSTAMP:20260118T214355
+CREATED:20250812T180025Z
+LAST-MODIFIED:20250812T180025Z
+UID:11655-1774224000-1774569599@sherwoodcharterschool.org
+SUMMARY:No School - Spring Break
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-spring-break-7/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+DTSTAMP:20260118T214355
+CREATED:20250812T180150Z
+LAST-MODIFIED:20250812T180150Z
+UID:11659-1774828800-1774915199@sherwoodcharterschool.org
+SUMMARY:No School – Staff Development
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-staff-development-16/
+CATEGORIES:Academic Calendar
+END:VEVENT
+END:VCALENDAR

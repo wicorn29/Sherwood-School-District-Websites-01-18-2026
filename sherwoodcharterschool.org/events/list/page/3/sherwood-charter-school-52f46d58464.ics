@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherwood Charter School
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+DTSTAMP:20260118T215837
+CREATED:20250812T181624Z
+LAST-MODIFIED:20250812T181624Z
+UID:11685-1780531200-1780617599@sherwoodcharterschool.org
+SUMMARY:Kindergarten Graduation and 5th Grade Promotion
+DESCRIPTION:The Kindergarten Graduation and 5th Grade Promotion will take place during the Stepping Stones Ceremony. Please see details here.
+URL:https://sherwoodcharterschool.org/event/kindergarten-graduation-and-5th-grade-promotion-6/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260617T180000
+DTEND;TZID=America/Los_Angeles:20260617T190000
+DTSTAMP:20260118T215837
+CREATED:20250806T214833Z
+LAST-MODIFIED:20250806T214833Z
+UID:11594-1781719200-1781722800@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-81/
+CATEGORIES:Board of Directors
+END:VEVENT
+END:VCALENDAR

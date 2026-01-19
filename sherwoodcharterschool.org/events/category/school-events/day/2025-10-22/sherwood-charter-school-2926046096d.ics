@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherwood Charter School
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20251022T160000
+DTEND;TZID=America/Los_Angeles:20251022T180000
+DTSTAMP:20260118T220000
+CREATED:20251016T191553Z
+LAST-MODIFIED:20251016T191652Z
+UID:11895-1761148800-1761156000@sherwoodcharterschool.org
+SUMMARY:Harvest Festival at Red Berry Barn
+DESCRIPTION:Harvest Festival- A Public Family Event- Wednesday\, October 22\, 2025 from 4:00 – 6:00 pm! \nWe are excited to announce that this year we will be partnering with Sherwood Red Berry Barn this year to host our Harvest Festival off-site. \nRed Berry Barn admission is required for everyone to access any part of the farm grounds. Children 1 year and younger are free when accompanied with a paying adult. Tickets are available for purchase until 5:00 pm at the event-be sure to mention SCS to receive a discounted rate! In addition to the Harvest Festival activities they offer\, they also have food available to purchase\, including Polish dogs\, Hot dogs\, PB&J\, Homemade chili\, Nachos and bakery items. \nHope to see you there! \n 
+URL:https://sherwoodcharterschool.org/event/harvest-festival-at-red-berry-barn/
+CATEGORIES:School Events
+ATTACH;FMTTYPE=image/jpeg:https://sherwoodcharterschool.org/wp-content/uploads/2025/10/Harvest-Festival-Flyer-2025.jpg
+END:VEVENT
+END:VCALENDAR

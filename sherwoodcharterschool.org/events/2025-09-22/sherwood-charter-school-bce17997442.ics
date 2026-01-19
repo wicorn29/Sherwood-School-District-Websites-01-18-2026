@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherwood Charter School
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250923
+DTSTAMP:20260118T214956
+CREATED:20250812T171517Z
+LAST-MODIFIED:20250818T230634Z
+UID:11607-1758499200-1758585599@sherwoodcharterschool.org
+SUMMARY:Picture Day
+DESCRIPTION:Picture day is on Monday\, September 22nd! You may place online orders now at mydorian.com and for up to 4 days after picture day.\n \nFor picture day\, students must wear uniform or nicer attire – please no jeans. All students will get their picture taken as part of their school record\, even if you chose not to order any photos.
+URL:https://sherwoodcharterschool.org/event/picture-day-7/
+CATEGORIES:School Events
+END:VEVENT
+END:VCALENDAR

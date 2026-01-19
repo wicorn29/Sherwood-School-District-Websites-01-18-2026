@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherwood Charter School
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250926
+DTSTAMP:20260118T214958
+CREATED:20250812T171854Z
+LAST-MODIFIED:20250812T171854Z
+UID:11609-1758758400-1758844799@sherwoodcharterschool.org
+SUMMARY:Free Dress Day
+DESCRIPTION:Free dress days are the last Thursday of each month for all students. Common-sense guidelines apply such as no torn-out jeans\, no clothes with inappropriate graphic or logos\, or anything that promotes violence\, drugs\, alcohol\, tobacco\, sex\, racism or gang affiliation\, no costume items\, etc. Prohibited articles of clothing include but are not limited to: \n\nPajamas and yoga pants (except on “Pajama Day”)\nTrench coats or capes\nTank tops and spaghetti or thin strap tops\nBare midriff\, or see-through clothing\nForm-fitting pants cannot be worn alone and must follow uniform guidelines as described in section 1(b)(iii) of the uniform policy at all times.\n\nIt is imperative that student attire does not contribute to a hostile or intimidating atmosphere for any student\, and that dress code enforcement does not reinforce or increase marginalization or oppression of any group based on race\, sex\, gender\, identity\, religion\, ethnicity\, or cultural observance. Any such clothing items are not allowed\, and students inappropriately dressed on free dress day will be asked to change. Parents will be contacted and asked to bring a change of clothes. \nIf in doubt as to whether an item is appropriate\, send back-up clothing in the event your child is asked to change. Younger students are also encouraged to bring a change of clothes in their backpacks in case of accidents.
+URL:https://sherwoodcharterschool.org/event/free-dress-day-51/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250926
+DTSTAMP:20260118T214958
+CREATED:20250812T172028Z
+LAST-MODIFIED:20250923T172418Z
+UID:11611-1758758400-1758844799@sherwoodcharterschool.org
+SUMMARY:Cougar Run 2025
+DESCRIPTION:On September 25th\, students will take part in the Cougar Run\, a fun run event to help raise money for SCS! Pledge Packets have been sent home by backpack mail with instructions. Learn more about the event\, make your donation\, and find other resources here.
+URL:https://sherwoodcharterschool.org/event/cougar-run-2025/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250925T180000
+DTEND;TZID=America/Los_Angeles:20250925T190000
+DTSTAMP:20260118T214958
+CREATED:20250924T145846Z
+LAST-MODIFIED:20250924T145855Z
+UID:11856-1758823200-1758826800@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting – Special Session
+DESCRIPTION:See more details on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-special-session-3/
+CATEGORIES:Board of Directors
+END:VEVENT
+END:VCALENDAR

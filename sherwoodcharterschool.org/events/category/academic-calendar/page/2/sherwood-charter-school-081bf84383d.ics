@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherwood Charter School
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+DTSTAMP:20260118T215652
+CREATED:20250812T180150Z
+LAST-MODIFIED:20250812T180150Z
+UID:11659-1774828800-1774915199@sherwoodcharterschool.org
+SUMMARY:No School – Staff Development
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-staff-development-16/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+DTSTAMP:20260118T215652
+CREATED:20250812T180826Z
+LAST-MODIFIED:20250812T180826Z
+UID:11667-1779667200-1779753599@sherwoodcharterschool.org
+SUMMARY:No School – Memorial Day
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-memorial-day-8/
+CATEGORIES:Academic Calendar,Holiday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+DTSTAMP:20260118T215652
+CREATED:20250812T181238Z
+LAST-MODIFIED:20250812T181238Z
+UID:11675-1780444800-1780531199@sherwoodcharterschool.org
+SUMMARY:Last Day of School (Middle School Only)
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/last-day-of-school-middle-school-only-4/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+DTSTAMP:20260118T215652
+CREATED:20250812T181316Z
+LAST-MODIFIED:20250812T181316Z
+UID:11677-1780444800-1780531199@sherwoodcharterschool.org
+SUMMARY:End of Trimester 3
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/end-of-trimester-3-8/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+DTSTAMP:20260118T215652
+CREATED:20250812T181442Z
+LAST-MODIFIED:20250812T181442Z
+UID:11681-1780531200-1780617599@sherwoodcharterschool.org
+SUMMARY:Last Day of School (Elementary Only) – Half Day
+DESCRIPTION:Students should arrive at school in uniform or nicer clothing at normal time (7:40-7:55 am)\, with morning car line drop off as usual. \nFor afternoon pick up\, please note that there will be NO dismissal through car line on this day. Parents must park and check into the office to pick up their student no later than noon if not picking up their student following the Stepping Stones Ceremony. \n\nMorning Car Line: 7:40-7:55 am\, normal drop off\nAfternoon Car Line: 11:30-12:00 pm\, must check out student from office
+URL:https://sherwoodcharterschool.org/event/last-day-of-school-elementary-only-half-day-4/
+CATEGORIES:Academic Calendar
+END:VEVENT
+END:VCALENDAR

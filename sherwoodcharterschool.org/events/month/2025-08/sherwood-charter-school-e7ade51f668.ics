@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherwood Charter School
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250820T180000
+DTEND;TZID=America/Los_Angeles:20250820T190000
+DTSTAMP:20260118T214952
+CREATED:20250806T214220Z
+LAST-MODIFIED:20250806T214220Z
+UID:11574-1755712800-1755716400@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-71/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250828T130000
+DTEND;TZID=America/Los_Angeles:20250828T150000
+DTSTAMP:20260118T214952
+CREATED:20250812T193635Z
+LAST-MODIFIED:20250826T193713Z
+UID:11687-1756386000-1756393200@sherwoodcharterschool.org
+SUMMARY:Meet and Greet
+DESCRIPTION:We hope everyone can join us on Thursday\, August 28th for the Meet and Greet event! It is a great opportunity for students to meet their teachers\, see the classroom\, drop off school supplies and get the first day jitters out – before the first day of school! \nWhen you arrive\, please head straight to your child’s classroom to drop off school supplies. In the classroom you will receive a meet and greet packet with your checklist of things to do. Be sure to visit the gym to pick up your car line tags for the year! See suggested arrival times below: \nStudent last name A-H: 1:00-2:00 pm \nStudent last name J-Z: 2:00-3:00 pm
+URL:https://sherwoodcharterschool.org/event/meet-and-greet-6/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250828T151500
+DTEND;TZID=America/Los_Angeles:20250828T154500
+DTSTAMP:20260118T214952
+CREATED:20250812T193726Z
+LAST-MODIFIED:20250813T201602Z
+UID:11689-1756394100-1756395900@sherwoodcharterschool.org
+SUMMARY:6th Grade and New Student Information Session
+DESCRIPTION:We are excited to welcome you and your incoming 6th grader or new 7th or 8th grader to SCS Leadership Academy for the 2025-26 school year! To help ease the transition and ensure you have all the information you need\, we would like to invite you to a quick informational meeting following the Meet and Greet Event on August 28th from 3:15 to 3:45 PM in the Humanities classroom. This is a great opportunity to learn more about this school year\, meet key staff members\, and ask any questions you may have as the school year begins. Students are welcome but not required to attend. Please reach out with any questions or concerns.
+URL:https://sherwoodcharterschool.org/event/6th-grade-and-new-student-information-session-2/
+CATEGORIES:School Events
+END:VEVENT
+END:VCALENDAR

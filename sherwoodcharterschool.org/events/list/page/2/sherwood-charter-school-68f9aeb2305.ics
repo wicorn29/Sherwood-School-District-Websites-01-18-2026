@@ -1,0 +1,303 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherwood Charter School
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+DTSTAMP:20260118T214822
+CREATED:20250812T180115Z
+LAST-MODIFIED:20250812T180115Z
+UID:11657-1773878400-1773964799@sherwoodcharterschool.org
+SUMMARY:Free Dress Day
+DESCRIPTION:Free dress days are the last Thursday of each month for all students. Common-sense guidelines apply such as no torn-out jeans\, no clothes with inappropriate graphic or logos\, or anything that promotes violence\, drugs\, alcohol\, tobacco\, sex\, racism or gang affiliation\, no costume items\, etc. Prohibited articles of clothing include but are not limited to: \n\nPajamas and yoga pants (except on “Pajama Day”)\nTrench coats or capes\nTank tops and spaghetti or thin strap tops\nBare midriff\, or see-through clothing\nForm-fitting pants cannot be worn alone and must follow uniform guidelines as described in section 1(b)(iii) of the uniform policy at all times.\n\nIt is imperative that student attire does not contribute to a hostile or intimidating atmosphere for any student\, and that dress code enforcement does not reinforce or increase marginalization or oppression of any group based on race\, sex\, gender\, identity\, religion\, ethnicity\, or cultural observance. Any such clothing items are not allowed\, and students inappropriately dressed on free dress day will be asked to change. Parents will be contacted and asked to bring a change of clothes. \nIf in doubt as to whether an item is appropriate\, send back-up clothing in the event your child is asked to change. Younger students are also encouraged to bring a change of clothes in their backpacks in case of accidents.
+URL:https://sherwoodcharterschool.org/event/free-dress-day-57/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260327
+DTSTAMP:20260118T214822
+CREATED:20250812T180025Z
+LAST-MODIFIED:20250812T180025Z
+UID:11655-1774224000-1774569599@sherwoodcharterschool.org
+SUMMARY:No School - Spring Break
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-spring-break-7/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+DTSTAMP:20260118T214822
+CREATED:20250812T180150Z
+LAST-MODIFIED:20250812T180150Z
+UID:11659-1774828800-1774915199@sherwoodcharterschool.org
+SUMMARY:No School – Staff Development
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-staff-development-16/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+DTSTAMP:20260118T214822
+CREATED:20250812T180330Z
+LAST-MODIFIED:20250812T180330Z
+UID:11661-1775174400-1775260799@sherwoodcharterschool.org
+SUMMARY:Kindergarten Round Up
+DESCRIPTION:More information coming soon!
+URL:https://sherwoodcharterschool.org/event/kindergarten-round-up-5/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260409T173000
+DTEND;TZID=America/Los_Angeles:20260409T190000
+DTSTAMP:20260118T214822
+CREATED:20250812T180530Z
+LAST-MODIFIED:20250812T180530Z
+UID:11663-1775755800-1775761200@sherwoodcharterschool.org
+SUMMARY:Celebration of Learning
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/celebration-of-learning-6/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260414T120000
+DTEND;TZID=America/Los_Angeles:20260414T120000
+DTSTAMP:20260118T214822
+CREATED:20260112T215312Z
+LAST-MODIFIED:20260112T215955Z
+UID:11994-1776168000-1776168000@sherwoodcharterschool.org
+SUMMARY:2026-2027 Spring Lottery Application Due by Noon
+DESCRIPTION:Applications for the 1st-8th grade Spring Lottery are due by noon on April 14th. See more information on the Enrollment page here.
+URL:https://sherwoodcharterschool.org/event/2026-2027-spring-lottery-pre-application-due-by-noon/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+DTSTAMP:20260118T214822
+CREATED:20260112T215811Z
+LAST-MODIFIED:20260112T215811Z
+UID:11997-1776211200-1776297599@sherwoodcharterschool.org
+SUMMARY:Spring Lottery
+DESCRIPTION:The 1st-8th grade Spring Lottery will be held at the Board of Director’s Meeting. See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/spring-lottery-6/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260415T180000
+DTEND;TZID=America/Los_Angeles:20260415T190000
+DTSTAMP:20260118T214822
+CREATED:20250806T214723Z
+LAST-MODIFIED:20250806T214723Z
+UID:11590-1776276000-1776279600@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-79/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+DTSTAMP:20260118T214822
+CREATED:20250812T180640Z
+LAST-MODIFIED:20250812T180640Z
+UID:11665-1777507200-1777593599@sherwoodcharterschool.org
+SUMMARY:Free Dress Day
+DESCRIPTION:Free dress days are the last Thursday of each month for all students. Common-sense guidelines apply such as no torn-out jeans\, no clothes with inappropriate graphic or logos\, or anything that promotes violence\, drugs\, alcohol\, tobacco\, sex\, racism or gang affiliation\, no costume items\, etc. Prohibited articles of clothing include but are not limited to: \n\nPajamas and yoga pants (except on “Pajama Day”)\nTrench coats or capes\nTank tops and spaghetti or thin strap tops\nBare midriff\, or see-through clothing\nForm-fitting pants cannot be worn alone and must follow uniform guidelines as described in section 1(b)(iii) of the uniform policy at all times.\n\nIt is imperative that student attire does not contribute to a hostile or intimidating atmosphere for any student\, and that dress code enforcement does not reinforce or increase marginalization or oppression of any group based on race\, sex\, gender\, identity\, religion\, ethnicity\, or cultural observance. Any such clothing items are not allowed\, and students inappropriately dressed on free dress day will be asked to change. Parents will be contacted and asked to bring a change of clothes. \nIf in doubt as to whether an item is appropriate\, send back-up clothing in the event your child is asked to change. Younger students are also encouraged to bring a change of clothes in their backpacks in case of accidents.
+URL:https://sherwoodcharterschool.org/event/free-dress-day-58/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+DTSTAMP:20260118T214822
+CREATED:20251001T191539Z
+LAST-MODIFIED:20251001T191539Z
+UID:11866-1778544000-1778630399@sherwoodcharterschool.org
+SUMMARY:Kindergarten and 1st Grade Music Concert
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/kindergarten-and-1st-grade-music-concert-5/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260520T180000
+DTEND;TZID=America/Los_Angeles:20260520T190000
+DTSTAMP:20260118T214822
+CREATED:20250806T214757Z
+LAST-MODIFIED:20250806T214757Z
+UID:11592-1779300000-1779303600@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-80/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+DTSTAMP:20260118T214822
+CREATED:20250812T180826Z
+LAST-MODIFIED:20250812T180826Z
+UID:11667-1779667200-1779753599@sherwoodcharterschool.org
+SUMMARY:No School – Memorial Day
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-memorial-day-8/
+CATEGORIES:Academic Calendar,Holiday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+DTSTAMP:20260118T214822
+CREATED:20250812T180919Z
+LAST-MODIFIED:20250812T180919Z
+UID:11669-1779926400-1780012799@sherwoodcharterschool.org
+SUMMARY:Free Dress Day
+DESCRIPTION:Free dress days are the last Thursday of each month for all students. Common-sense guidelines apply such as no torn-out jeans\, no clothes with inappropriate graphic or logos\, or anything that promotes violence\, drugs\, alcohol\, tobacco\, sex\, racism or gang affiliation\, no costume items\, etc. Prohibited articles of clothing include but are not limited to: \n\nPajamas and yoga pants (except on “Pajama Day”)\nTrench coats or capes\nTank tops and spaghetti or thin strap tops\nBare midriff\, or see-through clothing\nForm-fitting pants cannot be worn alone and must follow uniform guidelines as described in section 1(b)(iii) of the uniform policy at all times.\n\nIt is imperative that student attire does not contribute to a hostile or intimidating atmosphere for any student\, and that dress code enforcement does not reinforce or increase marginalization or oppression of any group based on race\, sex\, gender\, identity\, religion\, ethnicity\, or cultural observance. Any such clothing items are not allowed\, and students inappropriately dressed on free dress day will be asked to change. Parents will be contacted and asked to bring a change of clothes. \nIf in doubt as to whether an item is appropriate\, send back-up clothing in the event your child is asked to change. Younger students are also encouraged to bring a change of clothes in their backpacks in case of accidents.
+URL:https://sherwoodcharterschool.org/event/free-dress-day-59/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+DTSTAMP:20260118T214822
+CREATED:20251001T191729Z
+LAST-MODIFIED:20251001T191729Z
+UID:11867-1779926400-1780012799@sherwoodcharterschool.org
+SUMMARY:Middle School Pops Concert
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/middle-school-pops-concert-2/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260528T101500
+DTEND;TZID=America/Los_Angeles:20260528T113000
+DTSTAMP:20260118T214822
+CREATED:20250812T181030Z
+LAST-MODIFIED:20250812T181030Z
+UID:11671-1779963300-1779967800@sherwoodcharterschool.org
+SUMMARY:Middle School Tour and House Sorting Ceremony
+DESCRIPTION:More information coming soon!
+URL:https://sherwoodcharterschool.org/event/middle-school-tour-and-house-sorting-ceremony-3/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+DTSTAMP:20260118T214822
+CREATED:20250812T181147Z
+LAST-MODIFIED:20250812T181147Z
+UID:11673-1780272000-1780358399@sherwoodcharterschool.org
+SUMMARY:Elementary Field Day
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/elementary-field-day-5/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+DTSTAMP:20260118T214822
+CREATED:20250812T181238Z
+LAST-MODIFIED:20250812T181238Z
+UID:11675-1780444800-1780531199@sherwoodcharterschool.org
+SUMMARY:Last Day of School (Middle School Only)
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/last-day-of-school-middle-school-only-4/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+DTSTAMP:20260118T214822
+CREATED:20250812T181316Z
+LAST-MODIFIED:20250812T181316Z
+UID:11677-1780444800-1780531199@sherwoodcharterschool.org
+SUMMARY:End of Trimester 3
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/end-of-trimester-3-8/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260603T173000
+DTEND;TZID=America/Los_Angeles:20260603T190000
+DTSTAMP:20260118T214822
+CREATED:20250812T181357Z
+LAST-MODIFIED:20250812T181357Z
+UID:11679-1780507800-1780513200@sherwoodcharterschool.org
+SUMMARY:8th Grade Promotion
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/8th-grade-promotion-6/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+DTSTAMP:20260118T214822
+CREATED:20250812T181442Z
+LAST-MODIFIED:20250812T181442Z
+UID:11681-1780531200-1780617599@sherwoodcharterschool.org
+SUMMARY:Last Day of School (Elementary Only) – Half Day
+DESCRIPTION:Students should arrive at school in uniform or nicer clothing at normal time (7:40-7:55 am)\, with morning car line drop off as usual. \nFor afternoon pick up\, please note that there will be NO dismissal through car line on this day. Parents must park and check into the office to pick up their student no later than noon if not picking up their student following the Stepping Stones Ceremony. \n\nMorning Car Line: 7:40-7:55 am\, normal drop off\nAfternoon Car Line: 11:30-12:00 pm\, must check out student from office
+URL:https://sherwoodcharterschool.org/event/last-day-of-school-elementary-only-half-day-4/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+DTSTAMP:20260118T214822
+CREATED:20250812T181514Z
+LAST-MODIFIED:20250812T181514Z
+UID:11683-1780531200-1780617599@sherwoodcharterschool.org
+SUMMARY:Stepping Stones Ceremony
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/stepping-stones-ceremony-7/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+DTSTAMP:20260118T214822
+CREATED:20250812T181624Z
+LAST-MODIFIED:20250812T181624Z
+UID:11685-1780531200-1780617599@sherwoodcharterschool.org
+SUMMARY:Kindergarten Graduation and 5th Grade Promotion
+DESCRIPTION:The Kindergarten Graduation and 5th Grade Promotion will take place during the Stepping Stones Ceremony. Please see details here.
+URL:https://sherwoodcharterschool.org/event/kindergarten-graduation-and-5th-grade-promotion-6/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260617T180000
+DTEND;TZID=America/Los_Angeles:20260617T190000
+DTSTAMP:20260118T214822
+CREATED:20250806T214833Z
+LAST-MODIFIED:20250806T214833Z
+UID:11594-1781719200-1781722800@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-81/
+CATEGORIES:Board of Directors
+END:VEVENT
+END:VCALENDAR

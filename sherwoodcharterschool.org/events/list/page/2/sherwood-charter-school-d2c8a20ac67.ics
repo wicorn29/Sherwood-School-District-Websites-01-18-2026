@@ -1,0 +1,388 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherwood Charter School
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250923
+DTSTAMP:20260118T220307
+CREATED:20250812T171517Z
+LAST-MODIFIED:20250818T230634Z
+UID:11607-1758499200-1758585599@sherwoodcharterschool.org
+SUMMARY:Picture Day
+DESCRIPTION:Picture day is on Monday\, September 22nd! You may place online orders now at mydorian.com and for up to 4 days after picture day.\n \nFor picture day\, students must wear uniform or nicer attire – please no jeans. All students will get their picture taken as part of their school record\, even if you chose not to order any photos.
+URL:https://sherwoodcharterschool.org/event/picture-day-7/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250917T180000
+DTEND;TZID=America/Los_Angeles:20250917T190000
+DTSTAMP:20260118T220307
+CREATED:20250806T214253Z
+LAST-MODIFIED:20250806T214253Z
+UID:11576-1758132000-1758135600@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-72/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250911T171500
+DTEND;TZID=America/Los_Angeles:20250911T200000
+DTSTAMP:20260118T220307
+CREATED:20250812T171400Z
+LAST-MODIFIED:20250908T181503Z
+UID:11605-1757610900-1757620800@sherwoodcharterschool.org
+SUMMARY:Back to School Night
+DESCRIPTION:Back to School Night is on Thursday\, September 11th for parent/guardians only. We are excited to share our curriculum information with you and have you meet our wonderful teachers. Below is the schedule\, we will conclude the evening at 8:00 pm. \nMiddle School\nMiddle School Parents/Guardians should start at the Leadership Academy portables and upon arriving check in at your student’s home room classroom (classrooms will be labeled). Families will have a chance to rotate through all Middle School presentations listed below beginning at 5:15 pm. \n5:15 – 6:15 pm Middle School Presentations: \n\nMath Classroom: Mr. Bartoo: Math\, Grading & Synergy; Ms. Knee: Art\, Electives & HEART Skills\nHumanities Classroom: Ms. Raboli/Mrs. Hickmann: Humanities\, Planners & Conferences; Mr. Lamb: PE\, Uniforms & Schedules\nScience Classroom: Mrs. Barchers: Science\, Communication & Student Accountability; Mrs. DuPriest: Band\, Houses & Field Trips\n\nPresentation at Auditorium\n6:30-6:55 pm\nAll parents/guardians are invited to the Auditorium for a whole school presentation from Ms. Raboli. \nElementary\nElementary classes will hold two sessions for those with multiple students in your student’s classroom. You do not need to attend both sessions as they will contain the same information. \n7:00—7:25 pm– First Session\n7:30 – 7:55 pm—Repeat of the First Session (for families with multiple students) \n***This event is for Parents and Guardians only***
+URL:https://sherwoodcharterschool.org/event/back-to-school-night-5/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250903
+DTEND;VALUE=DATE:20250904
+DTSTAMP:20260118T220307
+CREATED:20250812T171114Z
+LAST-MODIFIED:20250813T175405Z
+UID:11602-1756857600-1756943999@sherwoodcharterschool.org
+SUMMARY:First Day of School
+DESCRIPTION:The first day of school will be on September 3rd. School is in session Monday-Thursday 8:00 am—3:30 pm (check the school calendar for holiday and closure dates).
+URL:https://sherwoodcharterschool.org/event/first-day-of-school-8/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250902
+DTEND;VALUE=DATE:20250903
+DTSTAMP:20260118T220307
+CREATED:20250806T230035Z
+LAST-MODIFIED:20250813T202753Z
+UID:11598-1756771200-1756857599@sherwoodcharterschool.org
+SUMMARY:First Day of School – Kinder and 6th Grade Only (Half Day)
+DESCRIPTION:The first day for Kindergarten and 6th grade only is on Tuesday\, September 2nd. This day will be a half day\, with drop off beginning at 7:40 am and pick up beginning at 11:30 am. On this day\, kinder and 6th grade students will be able to get comfortable in their classrooms\, meet their teachers\, learn about car line and get familiar with the campus before all students start the next day. Students will not have lunch on this day but should bring a snack\, and uniform dress should be worn. \nMorning Drop Off\nFor kindergarten on this day only\, kindergarten families should park on campus (parking will be available in the lower parking lot & overflow parking is available in the upper recess parking lot). Please arrive outside of the school office between 7:40 and 8:00 am to escort your student inside the building. \nFor 6th grade\, 6th grade families should drop off following normal car line procedures between 7:40 and 8:00 am. \nAfternoon Pick Up\nParents should plan on picking up their student through normal afternoon car line\, beginning at 11:30 am on September 2nd.
+URL:https://sherwoodcharterschool.org/event/first-day-of-school-kinder-and-6th-grade-only-half-day-4/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250902
+DTSTAMP:20260118T220307
+CREATED:20250806T214921Z
+LAST-MODIFIED:20250806T214921Z
+UID:11596-1756684800-1756771199@sherwoodcharterschool.org
+SUMMARY:No School – Labor Day
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-labor-day-5/
+CATEGORIES:Academic Calendar,Holiday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250828T151500
+DTEND;TZID=America/Los_Angeles:20250828T154500
+DTSTAMP:20260118T220307
+CREATED:20250812T193726Z
+LAST-MODIFIED:20250813T201602Z
+UID:11689-1756394100-1756395900@sherwoodcharterschool.org
+SUMMARY:6th Grade and New Student Information Session
+DESCRIPTION:We are excited to welcome you and your incoming 6th grader or new 7th or 8th grader to SCS Leadership Academy for the 2025-26 school year! To help ease the transition and ensure you have all the information you need\, we would like to invite you to a quick informational meeting following the Meet and Greet Event on August 28th from 3:15 to 3:45 PM in the Humanities classroom. This is a great opportunity to learn more about this school year\, meet key staff members\, and ask any questions you may have as the school year begins. Students are welcome but not required to attend. Please reach out with any questions or concerns.
+URL:https://sherwoodcharterschool.org/event/6th-grade-and-new-student-information-session-2/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250828T130000
+DTEND;TZID=America/Los_Angeles:20250828T150000
+DTSTAMP:20260118T220307
+CREATED:20250812T193635Z
+LAST-MODIFIED:20250826T193713Z
+UID:11687-1756386000-1756393200@sherwoodcharterschool.org
+SUMMARY:Meet and Greet
+DESCRIPTION:We hope everyone can join us on Thursday\, August 28th for the Meet and Greet event! It is a great opportunity for students to meet their teachers\, see the classroom\, drop off school supplies and get the first day jitters out – before the first day of school! \nWhen you arrive\, please head straight to your child’s classroom to drop off school supplies. In the classroom you will receive a meet and greet packet with your checklist of things to do. Be sure to visit the gym to pick up your car line tags for the year! See suggested arrival times below: \nStudent last name A-H: 1:00-2:00 pm \nStudent last name J-Z: 2:00-3:00 pm
+URL:https://sherwoodcharterschool.org/event/meet-and-greet-6/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250820T180000
+DTEND;TZID=America/Los_Angeles:20250820T190000
+DTSTAMP:20260118T220307
+CREATED:20250806T214220Z
+LAST-MODIFIED:20250806T214220Z
+UID:11574-1755712800-1755716400@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-71/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250723T180000
+DTEND;TZID=America/Los_Angeles:20250723T190000
+DTSTAMP:20260118T220307
+CREATED:20250806T214133Z
+LAST-MODIFIED:20250806T214146Z
+UID:11572-1753293600-1753297200@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-70/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250618T180000
+DTEND;TZID=America/Los_Angeles:20250618T190000
+DTSTAMP:20260118T220307
+CREATED:20241031T203644Z
+LAST-MODIFIED:20241031T203644Z
+UID:11143-1750269600-1750273200@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-69/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+DTSTAMP:20260118T220307
+CREATED:20241031T203929Z
+LAST-MODIFIED:20241031T203929Z
+UID:11147-1750204800-1750291199@sherwoodcharterschool.org
+SUMMARY:Summer Lottery
+DESCRIPTION:If deemed necessary\, the kindergarten-8th grade Summer Lottery will be held at the Board of Director’s Meeting. See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/summer-lottery-4/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250606T120000
+DTEND;TZID=America/Los_Angeles:20250606T120000
+DTSTAMP:20260118T220307
+CREATED:20241031T203841Z
+LAST-MODIFIED:20241031T203841Z
+UID:11145-1749211200-1749211200@sherwoodcharterschool.org
+SUMMARY:2025-2026 Summer Lottery Pre-Application Deadline by Noon
+DESCRIPTION:Pre-Applications for the kindergarten-8th grade Summer Lottery are due by noon on June 6th. See more information on the Enrollment page here.
+URL:https://sherwoodcharterschool.org/event/2025-2026-summer-lottery-pre-application-deadline-by-noon/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250605
+DTEND;VALUE=DATE:20250606
+DTSTAMP:20260118T220307
+CREATED:20250501T230251Z
+LAST-MODIFIED:20250501T230251Z
+UID:11461-1749081600-1749167999@sherwoodcharterschool.org
+SUMMARY:Kindergarten Graduation and 5th Grade Promotion
+DESCRIPTION:The Kindergarten Graduation and 5th Grade Promotion will take place during the Stepping Stones Ceremony. Please see details here.
+URL:https://sherwoodcharterschool.org/event/kindergarten-graduation-and-5th-grade-promotion-5/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250605
+DTEND;VALUE=DATE:20250606
+DTSTAMP:20260118T220307
+CREATED:20250501T230127Z
+LAST-MODIFIED:20250529T202052Z
+UID:11459-1749081600-1749167999@sherwoodcharterschool.org
+SUMMARY:Stepping Stones Ceremony
+DESCRIPTION:Each year at SCS we celebrate the completion of the elementary grades with a “Stepping Stones Ceremony.” The Stepping Stones Ceremony is a tradition where the teacher speaks about the class and the students. Students are given a stone memento with their grade to signify completing the year followed by a symbolic advancement to the next grade. It is a wonderful closure and the stones become keepsakes that they collect every year. \nAll families are encouraged to attend the Stepping Stones Ceremony for their student’s grade. Students should arrive at school in uniform or nicer clothing at normal time (7:40-7:55 am)\, with morning car line drop off as usual. Students will remain with their class until their ceremony. Parents should arrive a few minutes before their student’s grade is scheduled to begin. Once the whole class has advanced to the next grade level\, families will be directed into the school gym where they should check out their student with the designated staff member. After your student has been checked out\, there will be a brief opportunity to take pictures before officially starting summer. If you are unable to attend the Stepping Stones event and will not be picking up your student directly after the ceremony\, please note that there will be NO dismissal through car line on this day. Parents must park and check into the office to pick up student beginning at 11:30 and no later than noon. See the schedule below: \n\n8:20 – Doors open for Kindergarten Graduation seating\n8:30-9:00 – Kindergarten Graduation\n9:00-9:15 – Transition to Stepping Stones Ceremonies\n9:15-9:35 – First Grade\n9:40-10:00 – Second Grade\n10:05-10:25 – Third Grade\n10:30-10:50 – Fourth Grade\n10:50-11:00 – Transition to Fifth Grade Promotion\n11:00-11:30 – Fifth Grade Promotion\n11:30-12:00 – Wrap Up and Dismissal\n\n  \n     
+URL:https://sherwoodcharterschool.org/event/stepping-stones-ceremony-6/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250605
+DTEND;VALUE=DATE:20250606
+DTSTAMP:20260118T220307
+CREATED:20241031T203416Z
+LAST-MODIFIED:20241031T203416Z
+UID:11141-1749081600-1749167999@sherwoodcharterschool.org
+SUMMARY:Last Day of School (Elementary Only) – Half Day
+DESCRIPTION:Students should arrive at school in uniform or nicer clothing at normal time (7:40-7:55 am)\, with morning car line drop off as usual. \nFor afternoon pick up\, please note that there will be NO dismissal through car line on this day. Parents must park and check into the office to pick up their student no later than noon if not picking up their student following the Stepping Stones Ceremony. \n\nMorning Car Line: 7:40-7:55 am\, normal drop off\nAfternoon Car Line: 11:30-12:00 pm\, must check out student from office
+URL:https://sherwoodcharterschool.org/event/last-day-of-school-elementary-only-half-day-3/
+CATEGORIES:Academic Calendar,School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250604T173000
+DTEND;TZID=America/Los_Angeles:20250604T190000
+DTSTAMP:20260118T220307
+CREATED:20250501T230055Z
+LAST-MODIFIED:20250529T201615Z
+UID:11457-1749058200-1749063600@sherwoodcharterschool.org
+SUMMARY:8th Grade Promotion
+DESCRIPTION:We invite all 8th grade families to join us for the promotion of Sherwood Charter School’s 8th grade students! \nWednesday\, June 4th\, 2025\n5:30 pm to 6:30\nSherwood Charter School Auditorium \nA promotion reception will be held immediately following the ceremony in the gym. \n*If your student is participating in the ceremony\, please have them dress in uniform or nicer and arrive to Mrs. Iliscupidez’s classroom no later than 5:15 pm. They will be walking over to the auditorium as a class for the ceremony.
+URL:https://sherwoodcharterschool.org/event/8th-grade-promotion-5/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250604T075500
+DTEND;TZID=America/Los_Angeles:20250604T081500
+DTSTAMP:20260118T220307
+CREATED:20250514T210512Z
+LAST-MODIFIED:20250514T230633Z
+UID:11484-1749023700-1749024900@sherwoodcharterschool.org
+SUMMARY:8th Grade Clap Out
+DESCRIPTION:We will be celebrating our 8th grade students with a clap out on Wednesday\, June 5th. Following the morning assembly\, all students\, teachers and staff will clap out 8th grade as they transition for the last time at SCS. Congrats to our 8th grade class!
+URL:https://sherwoodcharterschool.org/event/8th-grade-clap-out-2/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250604
+DTEND;VALUE=DATE:20250605
+DTSTAMP:20260118T220307
+CREATED:20241031T203103Z
+LAST-MODIFIED:20241031T203103Z
+UID:11139-1748995200-1749081599@sherwoodcharterschool.org
+SUMMARY:End of Trimester 3
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/end-of-trimester-3-7/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250604
+DTEND;VALUE=DATE:20250605
+DTSTAMP:20260118T220307
+CREATED:20241031T203035Z
+LAST-MODIFIED:20241031T203035Z
+UID:11137-1748995200-1749081599@sherwoodcharterschool.org
+SUMMARY:Last Day of School (Middle School Only)
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/last-day-of-school-middle-school-only-3/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250603
+DTEND;VALUE=DATE:20250604
+DTSTAMP:20260118T220307
+CREATED:20250514T210052Z
+LAST-MODIFIED:20250514T210052Z
+UID:11480-1748908800-1748995199@sherwoodcharterschool.org
+SUMMARY:Elementary Classroom Takeover (Student Only Event)
+DESCRIPTION:On June 3rd\, students in KG-5th grade will get to participate in a classroom takeover event! Immediately following the morning assembly\, each grade will get to spend time in the classroom they will have next year\, ask questions with the teacher\, and participate in some other fun activities. This will be a fantastic way of getting ready for the next year and help with any new classroom nerves!
+URL:https://sherwoodcharterschool.org/event/elementary-classroom-takeover-student-only-event-3/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250603
+DTSTAMP:20260118T220307
+CREATED:20250527T175817Z
+LAST-MODIFIED:20250527T175817Z
+UID:11523-1748822400-1748908799@sherwoodcharterschool.org
+SUMMARY:Middle School Free Dress Day
+DESCRIPTION:For Middle School Only \nCommon-sense guidelines apply such as no torn-out jeans\, no clothes with inappropriate graphic or logos\, or anything that promotes violence\, drugs\, alcohol\, tobacco\, sex\, racism or gang affiliation\, no costume items\, etc. Prohibited articles of clothing include but are not limited to: \n\nPajamas\, yoga pants\, sweatpants\, and joggers (except on “Pajama Day”)\nTrench coats or capes\nTank tops and spaghetti or thin strap tops\nBare midriff\, or see-through clothing\nForm-fitting pants cannot be worn alone and must follow uniform guidelines as described in section 1(b)(iii) of the uniform policy at all times.\n\nIt is imperative that student attire does not contribute to a hostile or intimidating atmosphere for any student\, and that dress code enforcement does not reinforce or increase marginalization or oppression of any group based on race\, sex\, gender\, identity\, religion\, ethnicity\, or cultural observance. Any such clothing items are not allowed\, and students inappropriately dressed on free dress day will be asked to change. Parents will be contacted and asked to bring a change of clothes. \nIf in doubt as to whether an item is appropriate\, send back-up clothing in the event your child is asked to change. Younger students are also encouraged to bring a change of clothes in their backpacks in case of accidents.
+URL:https://sherwoodcharterschool.org/event/middle-school-free-dress-day-2/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250603
+DTSTAMP:20260118T220307
+CREATED:20250514T210320Z
+LAST-MODIFIED:20250514T210320Z
+UID:11482-1748822400-1748908799@sherwoodcharterschool.org
+SUMMARY:Field Trip - Middle School
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-middle-school-4/
+CATEGORIES:Field Trip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250603
+DTSTAMP:20260118T220307
+CREATED:20250501T225945Z
+LAST-MODIFIED:20250529T201443Z
+UID:11455-1748822400-1748908799@sherwoodcharterschool.org
+SUMMARY:Elementary Field Day
+DESCRIPTION:Elementary students will have a chance to participate in a school Field Day (student only) on June 2nd! \nFifth grade will assist Mr. Lamb in hosting the event for grades K-4th. Fifth grade will be rewarded for their hard work with a trip to Snyder Park concluding the event. All students will be given a popsicle (juice based\, dye free) at the end of their Field Day session.* Please send students with a water bottle & dressed in athletic wear. Leggings must have shorts/skirts worn over them. \n*For students with special dietary requirements\, please contact the office in advance for accommodations.
+URL:https://sherwoodcharterschool.org/event/elementary-field-day-4/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250529T101500
+DTEND;TZID=America/Los_Angeles:20250529T113000
+DTSTAMP:20260118T220307
+CREATED:20250501T225745Z
+LAST-MODIFIED:20250514T204346Z
+UID:11453-1748513700-1748518200@sherwoodcharterschool.org
+SUMMARY:Middle School Tour and House Sorting Ceremony
+DESCRIPTION:Parents & Guardians of incoming SCS middle school students are invited to join a brief middle school tour led by Principal Raboli on May 29th. Following the tour\, you will get to observe the House Sorting Ceremony where your student will be sorted into their Middle School House and participate in their first House Competition.* \nView the flyer here. \n  \n*New Sherwood Charter School middle school students who have been accepted to the 2025-2026 school year are welcome to attend and participate in the tour\, ceremony and house competition.
+URL:https://sherwoodcharterschool.org/event/middle-school-tour-and-house-sorting-ceremony-2/
+CATEGORIES:School Events
+ATTACH;FMTTYPE=image/jpeg:https://sherwoodcharterschool.org/wp-content/uploads/2025/05/MS-Tour-House-Sorting-Ceremony-2025.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250529
+DTEND;VALUE=DATE:20250530
+DTSTAMP:20260118T220307
+CREATED:20250515T213201Z
+LAST-MODIFIED:20250515T213201Z
+UID:11500-1748476800-1748563199@sherwoodcharterschool.org
+SUMMARY:Field Trip – Middle School
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-middle-school-5/
+CATEGORIES:Field Trip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250529
+DTEND;VALUE=DATE:20250530
+DTSTAMP:20260118T220307
+CREATED:20241031T202945Z
+LAST-MODIFIED:20241031T202945Z
+UID:11135-1748476800-1748563199@sherwoodcharterschool.org
+SUMMARY:Free Dress Day
+DESCRIPTION:Free dress days are the last Thursday of each month for all students. Common-sense guidelines apply such as no torn-out jeans\, no clothes with inappropriate graphic or logos\, or anything that promotes violence\, drugs\, alcohol\, tobacco\, sex\, racism or gang affiliation\, no costume items\, etc. Prohibited articles of clothing include but are not limited to: \n\nPajamas\, yoga pants\, sweatpants\, and joggers (except on “Pajama Day”)\nTrench coats or capes\nTank tops and spaghetti or thin strap tops\nBare midriff\, or see-through clothing\nForm-fitting pants cannot be worn alone and must follow uniform guidelines as described in section 1(b)(iii) of the uniform policy at all times.\n\nIt is imperative that student attire does not contribute to a hostile or intimidating atmosphere for any student\, and that dress code enforcement does not reinforce or increase marginalization or oppression of any group based on race\, sex\, gender\, identity\, religion\, ethnicity\, or cultural observance. Any such clothing items are not allowed\, and students inappropriately dressed on free dress day will be asked to change. Parents will be contacted and asked to bring a change of clothes. \nIf in doubt as to whether an item is appropriate\, send back-up clothing in the event your child is asked to change. Younger students are also encouraged to bring a change of clothes in their backpacks in case of accidents.
+URL:https://sherwoodcharterschool.org/event/free-dress-day-50/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250528
+DTEND;VALUE=DATE:20250529
+DTSTAMP:20260118T220307
+CREATED:20250220T030855Z
+LAST-MODIFIED:20250220T030855Z
+UID:11338-1748390400-1748476799@sherwoodcharterschool.org
+SUMMARY:Middle School Music Concert
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/middle-school-music-concert-4/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250527
+DTSTAMP:20260118T220307
+CREATED:20241031T202754Z
+LAST-MODIFIED:20241031T202754Z
+UID:11131-1748217600-1748303999@sherwoodcharterschool.org
+SUMMARY:No School – Memorial Day
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-memorial-day-7/
+CATEGORIES:Academic Calendar,Holiday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250522
+DTEND;VALUE=DATE:20250523
+DTSTAMP:20260118T220307
+CREATED:20250515T213020Z
+LAST-MODIFIED:20250515T213020Z
+UID:11498-1747872000-1747958399@sherwoodcharterschool.org
+SUMMARY:Field Trip - 2nd Grade
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-2nd-grade-7/
+CATEGORIES:Field Trip
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherwood Charter School
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+DTSTAMP:20260118T214253
+CREATED:20250812T173837Z
+LAST-MODIFIED:20250812T173837Z
+UID:11639-1768780800-1768867199@sherwoodcharterschool.org
+SUMMARY:No School – Martin Luther King Jr. Day
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-martin-luther-king-jr-day-7/
+CATEGORIES:Academic Calendar,Holiday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+DTSTAMP:20260118T214253
+CREATED:20250812T173938Z
+LAST-MODIFIED:20250812T173938Z
+UID:11641-1768953600-1769039999@sherwoodcharterschool.org
+SUMMARY:Vision Screening
+DESCRIPTION:On January 21st\, we will be holding a vision screening for the whole school. If your student wears glasses\, please make sure they are sent to school with them. If you do not want your child to participate\, please notify the office by email.
+URL:https://sherwoodcharterschool.org/event/vision-screening-5/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260121T180000
+DTEND;TZID=America/Los_Angeles:20260121T190000
+DTSTAMP:20260118T214253
+CREATED:20250806T214534Z
+LAST-MODIFIED:20250806T214534Z
+UID:11584-1769018400-1769022000@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-76/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+DTSTAMP:20260118T214253
+CREATED:20260108T224937Z
+LAST-MODIFIED:20260108T224937Z
+UID:11991-1769040000-1769126399@sherwoodcharterschool.org
+SUMMARY:Middle School Winter Dance
+DESCRIPTION:More information coming soon!
+URL:https://sherwoodcharterschool.org/event/middle-school-winter-dance-3/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+DTSTAMP:20260118T214253
+CREATED:20250812T175331Z
+LAST-MODIFIED:20250812T175331Z
+UID:11649-1769644800-1769731199@sherwoodcharterschool.org
+SUMMARY:Free Dress Day
+DESCRIPTION:Free dress days are the last Thursday of each month for all students. Common-sense guidelines apply such as no torn-out jeans\, no clothes with inappropriate graphic or logos\, or anything that promotes violence\, drugs\, alcohol\, tobacco\, sex\, racism or gang affiliation\, no costume items\, etc. Prohibited articles of clothing include but are not limited to: \n\nPajamas and yoga pants (except on “Pajama Day”)\nTrench coats or capes\nTank tops and spaghetti or thin strap tops\nBare midriff\, or see-through clothing\nForm-fitting pants cannot be worn alone and must follow uniform guidelines as described in section 1(b)(iii) of the uniform policy at all times.\n\nIt is imperative that student attire does not contribute to a hostile or intimidating atmosphere for any student\, and that dress code enforcement does not reinforce or increase marginalization or oppression of any group based on race\, sex\, gender\, identity\, religion\, ethnicity\, or cultural observance. Any such clothing items are not allowed\, and students inappropriately dressed on free dress day will be asked to change. Parents will be contacted and asked to bring a change of clothes. \nIf in doubt as to whether an item is appropriate\, send back-up clothing in the event your child is asked to change. Younger students are also encouraged to bring a change of clothes in their backpacks in case of accidents.
+URL:https://sherwoodcharterschool.org/event/free-dress-day-56/
+CATEGORIES:School Events
+END:VEVENT
+END:VCALENDAR

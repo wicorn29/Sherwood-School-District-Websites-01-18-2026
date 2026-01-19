@@ -1,0 +1,399 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherwood Charter School
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20240310T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20241103T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250107
+DTSTAMP:20260118T215706
+CREATED:20240919T213045Z
+LAST-MODIFIED:20240919T213045Z
+UID:11014-1736121600-1736207999@sherwoodcharterschool.org
+SUMMARY:No School – Staff Development
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-staff-development-12/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241223
+DTEND;VALUE=DATE:20250103
+DTSTAMP:20260118T215706
+CREATED:20240919T212939Z
+LAST-MODIFIED:20240919T212939Z
+UID:11011-1734912000-1735862399@sherwoodcharterschool.org
+SUMMARY:No School – Winter Break
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-winter-break-7/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241129
+DTSTAMP:20260118T215706
+CREATED:20240919T210130Z
+LAST-MODIFIED:20240919T210130Z
+UID:10996-1732492800-1732838399@sherwoodcharterschool.org
+SUMMARY:No School - Thanksgiving Break
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-thanksgiving-break-7/
+CATEGORIES:Academic Calendar,Holiday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241121
+DTEND;VALUE=DATE:20241122
+DTSTAMP:20260118T215706
+CREATED:20240919T210252Z
+LAST-MODIFIED:20240919T210252Z
+UID:10999-1732147200-1732233599@sherwoodcharterschool.org
+SUMMARY:End of Trimester 1
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/end-of-trimester-1-7/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241112
+DTSTAMP:20260118T215706
+CREATED:20240919T205346Z
+LAST-MODIFIED:20240919T205346Z
+UID:10994-1731283200-1731369599@sherwoodcharterschool.org
+SUMMARY:No School - Veteran's Day
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-veterans-day-5/
+CATEGORIES:Academic Calendar,Holiday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241024
+DTEND;VALUE=DATE:20241026
+DTSTAMP:20260118T215706
+CREATED:20240919T204946Z
+LAST-MODIFIED:20241009T182822Z
+UID:10988-1729728000-1729900799@sherwoodcharterschool.org
+SUMMARY:No School – Fall Conferences
+DESCRIPTION:Please reach out to your child’s teacher with any scheduling questions. For middle school\, please reach out to Mrs. Iliscupidez.
+URL:https://sherwoodcharterschool.org/event/no-school-fall-conferences-4/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240904
+DTEND;VALUE=DATE:20240905
+DTSTAMP:20260118T215706
+CREATED:20240819T194958Z
+LAST-MODIFIED:20240819T194958Z
+UID:10872-1725408000-1725494399@sherwoodcharterschool.org
+SUMMARY:First Day of School
+DESCRIPTION:The first day of school will be on September 4th. School is in session Monday-Thursday 8:00 am—3:30 pm (check the school calendar for holiday and closure dates).
+URL:https://sherwoodcharterschool.org/event/first-day-of-school-7/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240903
+DTEND;VALUE=DATE:20240904
+DTSTAMP:20260118T215706
+CREATED:20240819T195715Z
+LAST-MODIFIED:20240819T195753Z
+UID:10874-1725321600-1725407999@sherwoodcharterschool.org
+SUMMARY:First Day of School – Kinder and 6th Grade Only (Half Day)
+DESCRIPTION:The first day for Kindergarten and 6th grade is on Tuesday\, September 3rd. This day will be a half day\, with drop off beginning at 7:40 am and pick up beginning at 11:30 am. On this day\, kinder and 6th grade students will be able to get comfortable in their classrooms\, meet their teachers\, learn about car line and get familiar with the campus before all students start the next day. Students will not have lunch on this day but should bring a snack\, and uniform dress should be worn. \nMorning Drop Off\nOn the kindergartener’s first day\, kindergarten families should park on campus (parking will be available in the lower parking lot & overflow parking is available in the upper recess parking lot). Please arrive outside of the school office between 7:40 and 8:00 am to escort your student inside the building. \nOn 6th grade’s first day\, 6th grade families should drop off following normal car line procedures between 7:40 and 8:00 am. \nAfternoon Pick Up\nParents should plan on picking up their student through normal afternoon car line\, beginning at 11:30 am on September 3rd.
+URL:https://sherwoodcharterschool.org/event/first-day-of-school-kinder-and-6th-grade-only-half-day-3/
+CATEGORIES:Academic Calendar,School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240903
+DTSTAMP:20260118T215706
+CREATED:20240819T195324Z
+LAST-MODIFIED:20240819T195324Z
+UID:10876-1725235200-1725321599@sherwoodcharterschool.org
+SUMMARY:No School – Labor Day
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-labor-day-4/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240829T130000
+DTEND;TZID=America/Los_Angeles:20240829T150000
+DTSTAMP:20260118T215706
+CREATED:20240819T195623Z
+LAST-MODIFIED:20240829T023926Z
+UID:10878-1724936400-1724943600@sherwoodcharterschool.org
+SUMMARY:Meet and Greet
+DESCRIPTION:We hope everyone can join us on Thursday\, August 29th for the Meet and Greet event! It is a great opportunity for students to meet their teachers\, see the classroom\, drop off school supplies and get the first day jitters out – before the first day of school! \nWhen you arrive\, please head straight to your child’s classroom to drop off school supplies. In the classroom you will receive a meet and greet packet with your checklist of things to do. Be sure to visit the gym to pick up your car line tags for the year! See suggested arrival times below: \nStudent last name A-H: 1:00-2:00 pm \nStudent last name J-Z: 2:00-3:00 pm
+URL:https://sherwoodcharterschool.org/event/meet-and-greet-5/
+CATEGORIES:Academic Calendar,School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240610
+DTEND;VALUE=DATE:20240611
+DTSTAMP:20260118T215706
+CREATED:20231207T165615Z
+LAST-MODIFIED:20240425T143916Z
+UID:10467-1717977600-1718063999@sherwoodcharterschool.org
+SUMMARY:Summer Lottery
+DESCRIPTION:If deemed necessary\, the kindergarten-8th grade Summer Lottery will be held at the Board of Director’s Meeting. See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/summer-lottery-3/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240607T120000
+DTEND;TZID=America/Los_Angeles:20240607T120000
+DTSTAMP:20260118T215706
+CREATED:20231207T170941Z
+LAST-MODIFIED:20231207T170941Z
+UID:10474-1717761600-1717761600@sherwoodcharterschool.org
+SUMMARY:2024-2025 Summer Lottery Pre-Application Deadline by Noon
+DESCRIPTION:Pre-Applications for the kindergarten-8th grade Summer Lottery are due by noon on June 7th. See more information on the Enrollment page here.
+URL:https://sherwoodcharterschool.org/event/2024-2025-summer-lottery-pre-application-deadline-by-noon/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240606
+DTEND;VALUE=DATE:20240607
+DTSTAMP:20260118T215706
+CREATED:20230525T171124Z
+LAST-MODIFIED:20240523T163917Z
+UID:10073-1717632000-1717718399@sherwoodcharterschool.org
+SUMMARY:Last Day of School (Elementary Only) – Half Day
+DESCRIPTION:Students should arrive at school in uniform or nicer clothing at normal time (7:40-7:55 am)\, with morning car line drop off as usual. \nFor afternoon pick up\, please note that there will be NO dismissal through car line on this day. Parents must park and check into the office to pick up their student no later than noon if not picking up their student following the Stepping Stones Ceremony. \n\nMorning Car Line: 7:40-7:55 am\, normal drop off\nAfternoon Car Line: 11:30-12:00 pm\, must check out student from office
+URL:https://sherwoodcharterschool.org/event/last-day-of-school-elementary-only-half-day-2/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240605
+DTEND;VALUE=DATE:20240606
+DTSTAMP:20260118T215706
+CREATED:20230525T171442Z
+LAST-MODIFIED:20230525T171442Z
+UID:10076-1717545600-1717631999@sherwoodcharterschool.org
+SUMMARY:Last Day of School (Middle School Only)
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/last-day-of-school-middle-school-only-2/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240605
+DTEND;VALUE=DATE:20240606
+DTSTAMP:20260118T215706
+CREATED:20230525T170953Z
+LAST-MODIFIED:20230525T170953Z
+UID:10071-1717545600-1717631999@sherwoodcharterschool.org
+SUMMARY:End of Trimester 3
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/end-of-trimester-3-6/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240527
+DTEND;VALUE=DATE:20240528
+DTSTAMP:20260118T215706
+CREATED:20230525T170908Z
+LAST-MODIFIED:20230525T170908Z
+UID:10069-1716768000-1716854399@sherwoodcharterschool.org
+SUMMARY:No School – Memorial Day
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-memorial-day-6/
+CATEGORIES:Academic Calendar,Holiday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240417
+DTEND;VALUE=DATE:20240418
+DTSTAMP:20260118T215706
+CREATED:20231207T165421Z
+LAST-MODIFIED:20231207T165421Z
+UID:10465-1713312000-1713398399@sherwoodcharterschool.org
+SUMMARY:Spring Lottery
+DESCRIPTION:The kindergarten-8th grade Spring Lottery will be held at the Board of Director’s Meeting. See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/spring-lottery-4/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240405T120000
+DTEND;TZID=America/Los_Angeles:20240405T120000
+DTSTAMP:20260118T215706
+CREATED:20231207T170826Z
+LAST-MODIFIED:20231207T170826Z
+UID:10472-1712318400-1712318400@sherwoodcharterschool.org
+SUMMARY:2024-2025 Spring Lottery Pre-Application Deadline by Noon
+DESCRIPTION:Pre-Applications for the kindergarten-8th grade Spring Lottery are due by noon on April 5th. See more information on the Enrollment page here.
+URL:https://sherwoodcharterschool.org/event/2024-2025-spring-lottery-pre-application-deadline-by-noon/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240402
+DTSTAMP:20260118T215706
+CREATED:20230525T170712Z
+LAST-MODIFIED:20230525T170712Z
+UID:10067-1711929600-1712015999@sherwoodcharterschool.org
+SUMMARY:No School – Staff Development
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-staff-development-11/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240325
+DTEND;VALUE=DATE:20240329
+DTSTAMP:20260118T215706
+CREATED:20230525T170627Z
+LAST-MODIFIED:20230525T170627Z
+UID:10065-1711324800-1711670399@sherwoodcharterschool.org
+SUMMARY:No School – Spring Break
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-spring-break-5/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240308
+DTEND;VALUE=DATE:20240309
+DTSTAMP:20260118T215706
+CREATED:20230525T170434Z
+LAST-MODIFIED:20240229T193233Z
+UID:10063-1709856000-1709942399@sherwoodcharterschool.org
+SUMMARY:Spring Conferences
+DESCRIPTION:Spring Conferences are optional. If you would like to schedule a conference with your child’s teacher\, please email them to arrange a time.
+URL:https://sherwoodcharterschool.org/event/spring-conferences-3/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240307
+DTEND;VALUE=DATE:20240308
+DTSTAMP:20260118T215706
+CREATED:20230525T170343Z
+LAST-MODIFIED:20230525T170343Z
+UID:10061-1709769600-1709855999@sherwoodcharterschool.org
+SUMMARY:End of Trimester 2
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/end-of-trimester-2-5/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240221
+DTEND;VALUE=DATE:20240222
+DTSTAMP:20260118T215706
+CREATED:20231207T165219Z
+LAST-MODIFIED:20231207T165219Z
+UID:10463-1708473600-1708559999@sherwoodcharterschool.org
+SUMMARY:Winter Lottery
+DESCRIPTION:The kindergarten only Winter Lottery will be held at the Board of Director’s Meeting. See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/winter-lottery-6/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240219
+DTEND;VALUE=DATE:20240220
+DTSTAMP:20260118T215706
+CREATED:20230525T170252Z
+LAST-MODIFIED:20230525T170252Z
+UID:10059-1708300800-1708387199@sherwoodcharterschool.org
+SUMMARY:No School – President’s Day
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-presidents-day-5/
+CATEGORIES:Academic Calendar,Holiday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240202T120000
+DTEND;TZID=America/Los_Angeles:20240202T120000
+DTSTAMP:20260118T215706
+CREATED:20231207T170652Z
+LAST-MODIFIED:20231207T170652Z
+UID:10470-1706875200-1706875200@sherwoodcharterschool.org
+SUMMARY:2024-2025 Winter Lottery Pre-Application Deadline by Noon
+DESCRIPTION:Pre-Applications for the kindergarten only Winter Lottery are due by noon on February 2nd. See more information on the Enrollment page here.
+URL:https://sherwoodcharterschool.org/event/2024-2025-winter-lottery-pre-application-deadline-by-noon/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240118
+DTEND;VALUE=DATE:20240119
+DTSTAMP:20260118T215706
+CREATED:20240118T051011Z
+LAST-MODIFIED:20240118T145145Z
+UID:10515-1705536000-1705622399@sherwoodcharterschool.org
+SUMMARY:UPDATE: SCHOOL CLOSED
+DESCRIPTION:Sherwood School District has announced they will be closed for Thursday\, January 18th\, updating their previous announcement of a 2 hour delay. As we follow the district’s closure decisions\, SCS will also be closed.
+URL:https://sherwoodcharterschool.org/event/2-hour-delay-2/
+CATEGORIES:Academic Calendar,School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240117
+DTEND;VALUE=DATE:20240118
+DTSTAMP:20260118T215706
+CREATED:20240117T011236Z
+LAST-MODIFIED:20240117T011236Z
+UID:10512-1705449600-1705535999@sherwoodcharterschool.org
+SUMMARY:SCHOOL CLOSED
+DESCRIPTION:Due to the continuing winter weather and icy road conditions\, Sherwood School District has announced school closures for tomorrow\, Wednesday\, January 17th. As we follow the district’s decision\, SCS will also be closed.
+URL:https://sherwoodcharterschool.org/event/school-closed-3/
+CATEGORIES:Academic Calendar,School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240115
+DTEND;VALUE=DATE:20240116
+DTSTAMP:20260118T215706
+CREATED:20230525T170032Z
+LAST-MODIFIED:20230525T170120Z
+UID:10057-1705276800-1705363199@sherwoodcharterschool.org
+SUMMARY:No School – Martin Luther King Jr. Day
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-martin-luther-king-jr-day-5/
+CATEGORIES:Academic Calendar,Holiday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240102
+DTEND;VALUE=DATE:20240103
+DTSTAMP:20260118T215706
+CREATED:20230525T165833Z
+LAST-MODIFIED:20230525T165833Z
+UID:10055-1704153600-1704239999@sherwoodcharterschool.org
+SUMMARY:No School – Staff Development
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-staff-development-10/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240102
+DTSTAMP:20260118T215706
+CREATED:20230525T165742Z
+LAST-MODIFIED:20230525T165742Z
+UID:10053-1704067200-1704153599@sherwoodcharterschool.org
+SUMMARY:No School – New Year’s Day
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-new-years-day/
+CATEGORIES:Academic Calendar
+END:VEVENT
+END:VCALENDAR

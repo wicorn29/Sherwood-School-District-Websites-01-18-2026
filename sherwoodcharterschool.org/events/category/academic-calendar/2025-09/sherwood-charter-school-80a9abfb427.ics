@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherwood Charter School
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250902
+DTSTAMP:20260118T215657
+CREATED:20250806T214921Z
+LAST-MODIFIED:20250806T214921Z
+UID:11596-1756684800-1756771199@sherwoodcharterschool.org
+SUMMARY:No School – Labor Day
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-labor-day-5/
+CATEGORIES:Academic Calendar,Holiday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250902
+DTEND;VALUE=DATE:20250903
+DTSTAMP:20260118T215657
+CREATED:20250806T230035Z
+LAST-MODIFIED:20250813T202753Z
+UID:11598-1756771200-1756857599@sherwoodcharterschool.org
+SUMMARY:First Day of School – Kinder and 6th Grade Only (Half Day)
+DESCRIPTION:The first day for Kindergarten and 6th grade only is on Tuesday\, September 2nd. This day will be a half day\, with drop off beginning at 7:40 am and pick up beginning at 11:30 am. On this day\, kinder and 6th grade students will be able to get comfortable in their classrooms\, meet their teachers\, learn about car line and get familiar with the campus before all students start the next day. Students will not have lunch on this day but should bring a snack\, and uniform dress should be worn. \nMorning Drop Off\nFor kindergarten on this day only\, kindergarten families should park on campus (parking will be available in the lower parking lot & overflow parking is available in the upper recess parking lot). Please arrive outside of the school office between 7:40 and 8:00 am to escort your student inside the building. \nFor 6th grade\, 6th grade families should drop off following normal car line procedures between 7:40 and 8:00 am. \nAfternoon Pick Up\nParents should plan on picking up their student through normal afternoon car line\, beginning at 11:30 am on September 2nd.
+URL:https://sherwoodcharterschool.org/event/first-day-of-school-kinder-and-6th-grade-only-half-day-4/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250903
+DTEND;VALUE=DATE:20250904
+DTSTAMP:20260118T215657
+CREATED:20250812T171114Z
+LAST-MODIFIED:20250813T175405Z
+UID:11602-1756857600-1756943999@sherwoodcharterschool.org
+SUMMARY:First Day of School
+DESCRIPTION:The first day of school will be on September 3rd. School is in session Monday-Thursday 8:00 am—3:30 pm (check the school calendar for holiday and closure dates).
+URL:https://sherwoodcharterschool.org/event/first-day-of-school-8/
+CATEGORIES:Academic Calendar
+END:VEVENT
+END:VCALENDAR

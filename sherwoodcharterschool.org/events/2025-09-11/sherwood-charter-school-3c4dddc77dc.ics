@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherwood Charter School
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250911T171500
+DTEND;TZID=America/Los_Angeles:20250911T200000
+DTSTAMP:20260118T214954
+CREATED:20250812T171400Z
+LAST-MODIFIED:20250908T181503Z
+UID:11605-1757610900-1757620800@sherwoodcharterschool.org
+SUMMARY:Back to School Night
+DESCRIPTION:Back to School Night is on Thursday\, September 11th for parent/guardians only. We are excited to share our curriculum information with you and have you meet our wonderful teachers. Below is the schedule\, we will conclude the evening at 8:00 pm. \nMiddle School\nMiddle School Parents/Guardians should start at the Leadership Academy portables and upon arriving check in at your student’s home room classroom (classrooms will be labeled). Families will have a chance to rotate through all Middle School presentations listed below beginning at 5:15 pm. \n5:15 – 6:15 pm Middle School Presentations: \n\nMath Classroom: Mr. Bartoo: Math\, Grading & Synergy; Ms. Knee: Art\, Electives & HEART Skills\nHumanities Classroom: Ms. Raboli/Mrs. Hickmann: Humanities\, Planners & Conferences; Mr. Lamb: PE\, Uniforms & Schedules\nScience Classroom: Mrs. Barchers: Science\, Communication & Student Accountability; Mrs. DuPriest: Band\, Houses & Field Trips\n\nPresentation at Auditorium\n6:30-6:55 pm\nAll parents/guardians are invited to the Auditorium for a whole school presentation from Ms. Raboli. \nElementary\nElementary classes will hold two sessions for those with multiple students in your student’s classroom. You do not need to attend both sessions as they will contain the same information. \n7:00—7:25 pm– First Session\n7:30 – 7:55 pm—Repeat of the First Session (for families with multiple students) \n***This event is for Parents and Guardians only***
+URL:https://sherwoodcharterschool.org/event/back-to-school-night-5/
+CATEGORIES:School Events
+END:VEVENT
+END:VCALENDAR

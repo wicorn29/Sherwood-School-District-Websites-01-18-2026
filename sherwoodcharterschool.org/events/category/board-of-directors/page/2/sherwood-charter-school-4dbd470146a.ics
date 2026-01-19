@@ -1,0 +1,423 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20220313T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20221106T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20230312T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20231105T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20240310T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20241103T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250319T180000
+DTEND;TZID=America/Los_Angeles:20250319T190000
+DTSTAMP:20260118T215423
+CREATED:20241031T201419Z
+LAST-MODIFIED:20241031T201419Z
+UID:11115-1742407200-1742410800@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-66/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250219T180000
+DTEND;TZID=America/Los_Angeles:20250219T190000
+DTSTAMP:20260118T215423
+CREATED:20241031T200019Z
+LAST-MODIFIED:20241031T200019Z
+UID:11105-1739988000-1739991600@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-65/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250115T180000
+DTEND;TZID=America/Los_Angeles:20250115T190000
+DTSTAMP:20260118T215423
+CREATED:20241031T195039Z
+LAST-MODIFIED:20241031T195039Z
+UID:11101-1736964000-1736967600@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-64/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20241211T180000
+DTEND;TZID=America/Los_Angeles:20241211T190000
+DTSTAMP:20260118T215423
+CREATED:20241031T194536Z
+LAST-MODIFIED:20241031T194536Z
+UID:11093-1733940000-1733943600@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-63/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20241120T180000
+DTEND;TZID=America/Los_Angeles:20241120T190000
+DTSTAMP:20260118T215423
+CREATED:20240919T210837Z
+LAST-MODIFIED:20240919T210837Z
+UID:11001-1732125600-1732129200@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-62/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20241016T180000
+DTEND;TZID=America/Los_Angeles:20241016T190000
+DTSTAMP:20260118T215423
+CREATED:20240919T204709Z
+LAST-MODIFIED:20240919T204709Z
+UID:10986-1729101600-1729105200@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-61/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20241008T180000
+DTEND;TZID=America/Los_Angeles:20241008T190000
+DTSTAMP:20260118T215423
+CREATED:20241008T225309Z
+LAST-MODIFIED:20241008T225309Z
+UID:11044-1728410400-1728414000@sherwoodcharterschool.org
+SUMMARY:Executive Session of the Board
+DESCRIPTION:See details on the Board of Director’s page here.
+URL:https://sherwoodcharterschool.org/event/executive-session-of-the-board-2/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240918T180000
+DTEND;TZID=America/Los_Angeles:20240918T190000
+DTSTAMP:20260118T215423
+CREATED:20240912T214328Z
+LAST-MODIFIED:20240912T214328Z
+UID:10961-1726682400-1726686000@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-60/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240610T180000
+DTEND;TZID=America/Los_Angeles:20240610T190000
+DTSTAMP:20260118T215423
+CREATED:20230810T211947Z
+LAST-MODIFIED:20240425T143828Z
+UID:10177-1718042400-1718046000@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-59/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240515T180000
+DTEND;TZID=America/Los_Angeles:20240515T190000
+DTSTAMP:20260118T215423
+CREATED:20230810T211905Z
+LAST-MODIFIED:20230810T211905Z
+UID:10175-1715796000-1715799600@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-58/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240417T180000
+DTEND;TZID=America/Los_Angeles:20240417T190000
+DTSTAMP:20260118T215423
+CREATED:20230810T211822Z
+LAST-MODIFIED:20230810T211822Z
+UID:10173-1713376800-1713380400@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-57/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240320T180000
+DTEND;TZID=America/Los_Angeles:20240320T190000
+DTSTAMP:20260118T215423
+CREATED:20230810T211743Z
+LAST-MODIFIED:20230810T211743Z
+UID:10171-1710957600-1710961200@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-56/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240313T180000
+DTEND;TZID=America/Los_Angeles:20240313T190000
+DTSTAMP:20260118T215423
+CREATED:20240311T185227Z
+LAST-MODIFIED:20240311T185227Z
+UID:10648-1710352800-1710356400@sherwoodcharterschool.org
+SUMMARY:Executive Session of the Board
+DESCRIPTION:See details on the Board of Director’s page here.
+URL:https://sherwoodcharterschool.org/event/executive-session-of-the-board/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240223T150000
+DTEND;TZID=America/Los_Angeles:20240223T153000
+DTSTAMP:20260118T215423
+CREATED:20240223T002041Z
+LAST-MODIFIED:20240223T002041Z
+UID:10610-1708700400-1708702200@sherwoodcharterschool.org
+SUMMARY:Special Session of the Board
+DESCRIPTION:Please see the agenda on the board of director’s page here.
+URL:https://sherwoodcharterschool.org/event/special-session-of-the-board-4/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240221T180000
+DTEND;TZID=America/Los_Angeles:20240221T190000
+DTSTAMP:20260118T215423
+CREATED:20230810T211701Z
+LAST-MODIFIED:20230810T211701Z
+UID:10169-1708538400-1708542000@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-55/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240117T180000
+DTEND;TZID=America/Los_Angeles:20240117T190000
+DTSTAMP:20260118T215423
+CREATED:20230810T211621Z
+LAST-MODIFIED:20230810T211621Z
+UID:10167-1705514400-1705518000@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-54/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20231213T180000
+DTEND;TZID=America/Los_Angeles:20231213T190000
+DTSTAMP:20260118T215423
+CREATED:20230810T211500Z
+LAST-MODIFIED:20230810T211500Z
+UID:10165-1702490400-1702494000@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-53/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20231116T180000
+DTEND;TZID=America/Los_Angeles:20231116T190000
+DTSTAMP:20260118T215423
+CREATED:20230810T211415Z
+LAST-MODIFIED:20231019T145056Z
+UID:10163-1700157600-1700161200@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-52/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20231018T180000
+DTEND;TZID=America/Los_Angeles:20231018T190000
+DTSTAMP:20260118T215423
+CREATED:20230810T211317Z
+LAST-MODIFIED:20230810T211317Z
+UID:10161-1697652000-1697655600@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-51/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230920T180000
+DTEND;TZID=America/Los_Angeles:20230920T190000
+DTSTAMP:20260118T215423
+CREATED:20230810T211234Z
+LAST-MODIFIED:20230810T211234Z
+UID:10159-1695232800-1695236400@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-50/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230816T180000
+DTEND;TZID=America/Los_Angeles:20230816T190000
+DTSTAMP:20260118T215423
+CREATED:20230810T205658Z
+LAST-MODIFIED:20230810T205658Z
+UID:10151-1692208800-1692212400@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-49/
+LOCATION:Virtual
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230621T180000
+DTEND;TZID=America/Los_Angeles:20230621T193000
+DTSTAMP:20260118T215423
+CREATED:20220819T182948Z
+LAST-MODIFIED:20220819T182948Z
+UID:9465-1687370400-1687375800@sherwoodcharterschool.org
+SUMMARY:Board of Director's Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-48/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230517T180000
+DTEND;TZID=America/Los_Angeles:20230517T193000
+DTSTAMP:20260118T215423
+CREATED:20220819T182913Z
+LAST-MODIFIED:20220819T182913Z
+UID:9463-1684346400-1684351800@sherwoodcharterschool.org
+SUMMARY:Board of Director's Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-47/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230419T180000
+DTEND;TZID=America/Los_Angeles:20230419T193000
+DTSTAMP:20260118T215423
+CREATED:20220819T182832Z
+LAST-MODIFIED:20220819T182832Z
+UID:9461-1681927200-1681932600@sherwoodcharterschool.org
+SUMMARY:Board of Director's Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-46/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230308T180000
+DTEND;TZID=America/Los_Angeles:20230308T193000
+DTSTAMP:20260118T215423
+CREATED:20220819T182752Z
+LAST-MODIFIED:20230302T162313Z
+UID:9459-1678298400-1678303800@sherwoodcharterschool.org
+SUMMARY:Board of Director's Meeting
+DESCRIPTION:The board will meet for a closed executive closed session at 5:30 pm before the monthly board meeting. See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-45/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230302T180000
+DTEND;TZID=America/Los_Angeles:20230302T190000
+DTSTAMP:20260118T215423
+CREATED:20230302T160050Z
+LAST-MODIFIED:20230302T160050Z
+UID:9867-1677780000-1677783600@sherwoodcharterschool.org
+SUMMARY:Board of Director's Meeting - Special Session
+DESCRIPTION:The board will meet in an executive session. See more details on the board of director’s page here.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-special-session-2/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230215T180000
+DTEND;TZID=America/Los_Angeles:20230215T193000
+DTSTAMP:20260118T215423
+CREATED:20220819T182707Z
+LAST-MODIFIED:20220819T182707Z
+UID:9457-1676484000-1676489400@sherwoodcharterschool.org
+SUMMARY:Board of Director's Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-44/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230118T180000
+DTEND;TZID=America/Los_Angeles:20230118T193000
+DTSTAMP:20260118T215423
+CREATED:20220819T182628Z
+LAST-MODIFIED:20220819T182628Z
+UID:9455-1674064800-1674070200@sherwoodcharterschool.org
+SUMMARY:Board of Director's Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-43/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20221214T180000
+DTEND;TZID=America/Los_Angeles:20221214T193000
+DTSTAMP:20260118T215423
+CREATED:20220819T182544Z
+LAST-MODIFIED:20220819T182544Z
+UID:9452-1671040800-1671046200@sherwoodcharterschool.org
+SUMMARY:Board of Director's Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-42/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20221116T180000
+DTEND;TZID=America/Los_Angeles:20221116T193000
+DTSTAMP:20260118T215423
+CREATED:20220819T182451Z
+LAST-MODIFIED:20220819T182451Z
+UID:9450-1668621600-1668627000@sherwoodcharterschool.org
+SUMMARY:Board of Director's Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-41/
+CATEGORIES:Board of Directors
+END:VEVENT
+END:VCALENDAR

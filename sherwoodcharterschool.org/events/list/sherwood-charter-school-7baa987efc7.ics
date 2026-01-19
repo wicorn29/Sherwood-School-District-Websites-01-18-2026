@@ -1,0 +1,388 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherwood Charter School - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://sherwoodcharterschool.org
+X-WR-CALDESC:Events for Sherwood Charter School
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250902
+DTSTAMP:20260118T214950
+CREATED:20250806T214921Z
+LAST-MODIFIED:20250806T214921Z
+UID:11596-1756684800-1756771199@sherwoodcharterschool.org
+SUMMARY:No School – Labor Day
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-labor-day-5/
+CATEGORIES:Academic Calendar,Holiday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250902
+DTEND;VALUE=DATE:20250903
+DTSTAMP:20260118T214950
+CREATED:20250806T230035Z
+LAST-MODIFIED:20250813T202753Z
+UID:11598-1756771200-1756857599@sherwoodcharterschool.org
+SUMMARY:First Day of School – Kinder and 6th Grade Only (Half Day)
+DESCRIPTION:The first day for Kindergarten and 6th grade only is on Tuesday\, September 2nd. This day will be a half day\, with drop off beginning at 7:40 am and pick up beginning at 11:30 am. On this day\, kinder and 6th grade students will be able to get comfortable in their classrooms\, meet their teachers\, learn about car line and get familiar with the campus before all students start the next day. Students will not have lunch on this day but should bring a snack\, and uniform dress should be worn. \nMorning Drop Off\nFor kindergarten on this day only\, kindergarten families should park on campus (parking will be available in the lower parking lot & overflow parking is available in the upper recess parking lot). Please arrive outside of the school office between 7:40 and 8:00 am to escort your student inside the building. \nFor 6th grade\, 6th grade families should drop off following normal car line procedures between 7:40 and 8:00 am. \nAfternoon Pick Up\nParents should plan on picking up their student through normal afternoon car line\, beginning at 11:30 am on September 2nd.
+URL:https://sherwoodcharterschool.org/event/first-day-of-school-kinder-and-6th-grade-only-half-day-4/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250903
+DTEND;VALUE=DATE:20250904
+DTSTAMP:20260118T214950
+CREATED:20250812T171114Z
+LAST-MODIFIED:20250813T175405Z
+UID:11602-1756857600-1756943999@sherwoodcharterschool.org
+SUMMARY:First Day of School
+DESCRIPTION:The first day of school will be on September 3rd. School is in session Monday-Thursday 8:00 am—3:30 pm (check the school calendar for holiday and closure dates).
+URL:https://sherwoodcharterschool.org/event/first-day-of-school-8/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250911T171500
+DTEND;TZID=America/Los_Angeles:20250911T200000
+DTSTAMP:20260118T214950
+CREATED:20250812T171400Z
+LAST-MODIFIED:20250908T181503Z
+UID:11605-1757610900-1757620800@sherwoodcharterschool.org
+SUMMARY:Back to School Night
+DESCRIPTION:Back to School Night is on Thursday\, September 11th for parent/guardians only. We are excited to share our curriculum information with you and have you meet our wonderful teachers. Below is the schedule\, we will conclude the evening at 8:00 pm. \nMiddle School\nMiddle School Parents/Guardians should start at the Leadership Academy portables and upon arriving check in at your student’s home room classroom (classrooms will be labeled). Families will have a chance to rotate through all Middle School presentations listed below beginning at 5:15 pm. \n5:15 – 6:15 pm Middle School Presentations: \n\nMath Classroom: Mr. Bartoo: Math\, Grading & Synergy; Ms. Knee: Art\, Electives & HEART Skills\nHumanities Classroom: Ms. Raboli/Mrs. Hickmann: Humanities\, Planners & Conferences; Mr. Lamb: PE\, Uniforms & Schedules\nScience Classroom: Mrs. Barchers: Science\, Communication & Student Accountability; Mrs. DuPriest: Band\, Houses & Field Trips\n\nPresentation at Auditorium\n6:30-6:55 pm\nAll parents/guardians are invited to the Auditorium for a whole school presentation from Ms. Raboli. \nElementary\nElementary classes will hold two sessions for those with multiple students in your student’s classroom. You do not need to attend both sessions as they will contain the same information. \n7:00—7:25 pm– First Session\n7:30 – 7:55 pm—Repeat of the First Session (for families with multiple students) \n***This event is for Parents and Guardians only***
+URL:https://sherwoodcharterschool.org/event/back-to-school-night-5/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250917T180000
+DTEND;TZID=America/Los_Angeles:20250917T190000
+DTSTAMP:20260118T214950
+CREATED:20250806T214253Z
+LAST-MODIFIED:20250806T214253Z
+UID:11576-1758132000-1758135600@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-72/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250923
+DTSTAMP:20260118T214950
+CREATED:20250812T171517Z
+LAST-MODIFIED:20250818T230634Z
+UID:11607-1758499200-1758585599@sherwoodcharterschool.org
+SUMMARY:Picture Day
+DESCRIPTION:Picture day is on Monday\, September 22nd! You may place online orders now at mydorian.com and for up to 4 days after picture day.\n \nFor picture day\, students must wear uniform or nicer attire – please no jeans. All students will get their picture taken as part of their school record\, even if you chose not to order any photos.
+URL:https://sherwoodcharterschool.org/event/picture-day-7/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250926
+DTSTAMP:20260118T214950
+CREATED:20250812T171854Z
+LAST-MODIFIED:20250812T171854Z
+UID:11609-1758758400-1758844799@sherwoodcharterschool.org
+SUMMARY:Free Dress Day
+DESCRIPTION:Free dress days are the last Thursday of each month for all students. Common-sense guidelines apply such as no torn-out jeans\, no clothes with inappropriate graphic or logos\, or anything that promotes violence\, drugs\, alcohol\, tobacco\, sex\, racism or gang affiliation\, no costume items\, etc. Prohibited articles of clothing include but are not limited to: \n\nPajamas and yoga pants (except on “Pajama Day”)\nTrench coats or capes\nTank tops and spaghetti or thin strap tops\nBare midriff\, or see-through clothing\nForm-fitting pants cannot be worn alone and must follow uniform guidelines as described in section 1(b)(iii) of the uniform policy at all times.\n\nIt is imperative that student attire does not contribute to a hostile or intimidating atmosphere for any student\, and that dress code enforcement does not reinforce or increase marginalization or oppression of any group based on race\, sex\, gender\, identity\, religion\, ethnicity\, or cultural observance. Any such clothing items are not allowed\, and students inappropriately dressed on free dress day will be asked to change. Parents will be contacted and asked to bring a change of clothes. \nIf in doubt as to whether an item is appropriate\, send back-up clothing in the event your child is asked to change. Younger students are also encouraged to bring a change of clothes in their backpacks in case of accidents.
+URL:https://sherwoodcharterschool.org/event/free-dress-day-51/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250926
+DTSTAMP:20260118T214950
+CREATED:20250812T172028Z
+LAST-MODIFIED:20250923T172418Z
+UID:11611-1758758400-1758844799@sherwoodcharterschool.org
+SUMMARY:Cougar Run 2025
+DESCRIPTION:On September 25th\, students will take part in the Cougar Run\, a fun run event to help raise money for SCS! Pledge Packets have been sent home by backpack mail with instructions. Learn more about the event\, make your donation\, and find other resources here.
+URL:https://sherwoodcharterschool.org/event/cougar-run-2025/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250925T180000
+DTEND;TZID=America/Los_Angeles:20250925T190000
+DTSTAMP:20260118T214950
+CREATED:20250924T145846Z
+LAST-MODIFIED:20250924T145855Z
+UID:11856-1758823200-1758826800@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting – Special Session
+DESCRIPTION:See more details on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-special-session-3/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251010
+DTSTAMP:20260118T214950
+CREATED:20250812T172220Z
+LAST-MODIFIED:20250812T172220Z
+UID:11613-1759708800-1760054399@sherwoodcharterschool.org
+SUMMARY:Field Trip - 5th Grade
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-5th-grade-8/
+CATEGORIES:Field Trip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251009
+DTEND;VALUE=DATE:20251010
+DTSTAMP:20260118T214950
+CREATED:20251016T184441Z
+LAST-MODIFIED:20251016T184441Z
+UID:11892-1759968000-1760054399@sherwoodcharterschool.org
+SUMMARY:Field Trip - Kindergarten
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-kindergarten-10/
+CATEGORIES:Field Trip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251017
+DTSTAMP:20260118T214950
+CREATED:20251009T230910Z
+LAST-MODIFIED:20251009T230910Z
+UID:11883-1760313600-1760659199@sherwoodcharterschool.org
+SUMMARY:Cougar Run Free Dress Week – Whole School
+DESCRIPTION:Congratulations! Students have reached the 15K fundraising goal in the 2025 Cougar Run! The whole school has earned a bonus free dress week set for October 13th– 16th! \nCommon-sense guidelines apply such as no torn-out jeans\, no clothes with inappropriate graphic or logos\, or anything that promotes violence\, drugs\, alcohol\, tobacco\, sex\, racism or gang affiliation\, no costume items\, etc. Prohibited articles of clothing include but are not limited to: \n\nPajamas\, yoga pants\, sweatpants\, and joggers (except on “Pajama Day”)\nTrench coats or capes\nTank tops and spaghetti or thin strap tops\nBare midriff\, or see-through clothing\nForm-fitting pants cannot be worn alone and must follow uniform guidelines as described in section 1(b)(iii) of the uniform policy at all times.\n\nIt is imperative that student attire does not contribute to a hostile or intimidating atmosphere for any student\, and that dress code enforcement does not reinforce or increase marginalization or oppression of any group based on race\, sex\, gender\, identity\, religion\, ethnicity\, or cultural observance. Any such clothing items are not allowed\, and students inappropriately dressed on free dress day will be asked to change. Parents will be contacted and asked to bring a change of clothes. \nIf in doubt as to whether an item is appropriate\, send back-up clothing in the event your child is asked to change. Younger students are also encouraged to bring a change of clothes in their backpacks in case of accidents.
+URL:https://sherwoodcharterschool.org/event/cougar-run-free-dress-week-whole-school-4/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20251015T180000
+DTEND;TZID=America/Los_Angeles:20251015T190000
+DTSTAMP:20260118T214950
+CREATED:20250806T214328Z
+LAST-MODIFIED:20250806T214328Z
+UID:11578-1760551200-1760554800@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-73/
+CATEGORIES:Board of Directors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+DTEND;VALUE=DATE:20251017
+DTSTAMP:20260118T214950
+CREATED:20251016T184653Z
+LAST-MODIFIED:20251016T184653Z
+UID:11893-1760572800-1760659199@sherwoodcharterschool.org
+SUMMARY:Field Trip - Middle School
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-middle-school-6/
+CATEGORIES:Field Trip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251022
+DTSTAMP:20260118T214950
+CREATED:20251016T184724Z
+LAST-MODIFIED:20251016T191725Z
+UID:11894-1761004800-1761091199@sherwoodcharterschool.org
+SUMMARY:Field Trip - 1st Grade
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-1st-grade-9/
+CATEGORIES:Field Trip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20251022T160000
+DTEND;TZID=America/Los_Angeles:20251022T180000
+DTSTAMP:20260118T214950
+CREATED:20251016T191553Z
+LAST-MODIFIED:20251016T191652Z
+UID:11895-1761148800-1761156000@sherwoodcharterschool.org
+SUMMARY:Harvest Festival at Red Berry Barn
+DESCRIPTION:Harvest Festival- A Public Family Event- Wednesday\, October 22\, 2025 from 4:00 – 6:00 pm! \nWe are excited to announce that this year we will be partnering with Sherwood Red Berry Barn this year to host our Harvest Festival off-site. \nRed Berry Barn admission is required for everyone to access any part of the farm grounds. Children 1 year and younger are free when accompanied with a paying adult. Tickets are available for purchase until 5:00 pm at the event-be sure to mention SCS to receive a discounted rate! In addition to the Harvest Festival activities they offer\, they also have food available to purchase\, including Polish dogs\, Hot dogs\, PB&J\, Homemade chili\, Nachos and bakery items. \nHope to see you there! \n 
+URL:https://sherwoodcharterschool.org/event/harvest-festival-at-red-berry-barn/
+CATEGORIES:School Events
+ATTACH;FMTTYPE=image/jpeg:https://sherwoodcharterschool.org/wp-content/uploads/2025/10/Harvest-Festival-Flyer-2025.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DTEND;VALUE=DATE:20251025
+DTSTAMP:20260118T214950
+CREATED:20250812T172634Z
+LAST-MODIFIED:20250812T172634Z
+UID:11617-1761177600-1761350399@sherwoodcharterschool.org
+SUMMARY:No School – Fall Conferences
+DESCRIPTION:Sign ups for fall conferences will be sent from your child’s teacher. Please reach out to to them with any scheduling questions.
+URL:https://sherwoodcharterschool.org/event/no-school-fall-conferences-5/
+CATEGORIES:Academic Calendar,School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+DTSTAMP:20260118T214950
+CREATED:20251117T190102Z
+LAST-MODIFIED:20251117T190102Z
+UID:11952-1761350400-1761436799@sherwoodcharterschool.org
+SUMMARY:Field Trip - MS Robotics
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-ms-robotics-3/
+CATEGORIES:Field Trip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20251027T081500
+DTEND;TZID=America/Los_Angeles:20251027T084500
+DTSTAMP:20260118T214950
+CREATED:20251022T171828Z
+LAST-MODIFIED:20251022T171828Z
+UID:11905-1761552900-1761554700@sherwoodcharterschool.org
+SUMMARY:Kindergarten ABC Spotlight
+DESCRIPTION:Kindergarten parents/guardians are invited to join us for an ABC Spotlight on October 27th at 8:20 am! Please arrive by 8:15 and check into the office.
+URL:https://sherwoodcharterschool.org/event/kindergarten-abc-spotlight/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251030
+DTEND;VALUE=DATE:20251031
+DTSTAMP:20260118T214950
+CREATED:20250812T173200Z
+LAST-MODIFIED:20250812T173200Z
+UID:11625-1761782400-1761868799@sherwoodcharterschool.org
+SUMMARY:Free Dress Day
+DESCRIPTION:Free dress days are the last Thursday of each month for all students. Common-sense guidelines apply such as no torn-out jeans\, no clothes with inappropriate graphic or logos\, or anything that promotes violence\, drugs\, alcohol\, tobacco\, sex\, racism or gang affiliation\, no costume items\, etc. Prohibited articles of clothing include but are not limited to: \n\nPajamas and yoga pants (except on “Pajama Day”)\nTrench coats or capes\nTank tops and spaghetti or thin strap tops\nBare midriff\, or see-through clothing\nForm-fitting pants cannot be worn alone and must follow uniform guidelines as described in section 1(b)(iii) of the uniform policy at all times.\n\nIt is imperative that student attire does not contribute to a hostile or intimidating atmosphere for any student\, and that dress code enforcement does not reinforce or increase marginalization or oppression of any group based on race\, sex\, gender\, identity\, religion\, ethnicity\, or cultural observance. Any such clothing items are not allowed\, and students inappropriately dressed on free dress day will be asked to change. Parents will be contacted and asked to bring a change of clothes. \nIf in doubt as to whether an item is appropriate\, send back-up clothing in the event your child is asked to change. Younger students are also encouraged to bring a change of clothes in their backpacks in case of accidents.
+URL:https://sherwoodcharterschool.org/event/free-dress-day-52/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251030
+DTEND;VALUE=DATE:20251031
+DTSTAMP:20260118T214950
+CREATED:20251016T180740Z
+LAST-MODIFIED:20251027T213634Z
+UID:11890-1761782400-1761868799@sherwoodcharterschool.org
+SUMMARY:Halloween Costumes at School
+DESCRIPTION:On October 31st\, students may choose to wear free dress\, fall colors or simple Halloween costumes. In addition to individual classroom guidelines\, please follow the guidelines below to minimize disruption and maximize the fun: \n\nTeachers/Staff cannot be responsible for putting on\, taking off\, or managing costumes. One suggestion is to have your child wear part of their costume to school. Phone calls home for forgotten costume items will not be allowed.\nCostumes should be appropriate for all regular school activities like quiet work times\, recess\, and P.E. Please be aware of the activities your child will be doing\, and know that their costume may come back soiled/damaged. Tennis shoes are required for P.E. Consider sending your student with back up clothing in the event their costume fails.\nMinimal make-up is allowed\, but students are not to bring any makeup items to school for application. No full face makeup or colored hair spray\, as it will often come off on clothing\, costumes\, school supplies\, food\, and school furniture. If the makeup is creating a problem\, your child may be asked to wash it off.\nCostumes should not include accessories such as guns\, knives\, swords\, pitchforks or any other items that make them scary\, gory\, or violent. No costume masks. Please pay careful attention to the appropriateness of the costume for the school environment.\nInflatable costumes are not allowed. Wigs and hats may be worn.\n\nThe guidelines mentioned above may seem overly restrictive\, but they are designed to protect the safety of your children while assuring the opportunity for fun in the school setting. We want the children to have a great time AND have a productive day at school.
+URL:https://sherwoodcharterschool.org/event/halloween-costumes-at-school-4/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251111
+DTSTAMP:20260118T214950
+CREATED:20250812T172901Z
+LAST-MODIFIED:20250812T172901Z
+UID:11621-1762732800-1762819199@sherwoodcharterschool.org
+SUMMARY:No School – Staff Development
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-staff-development-14/
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251111
+DTEND;VALUE=DATE:20251112
+DTSTAMP:20260118T214950
+CREATED:20250812T172743Z
+LAST-MODIFIED:20250812T172743Z
+UID:11619-1762819200-1762905599@sherwoodcharterschool.org
+SUMMARY:No School - Veteran's Day
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/no-school-veterans-day-6/
+CATEGORIES:Academic Calendar,Holiday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251112
+DTEND;VALUE=DATE:20251113
+DTSTAMP:20260118T214950
+CREATED:20250812T173357Z
+LAST-MODIFIED:20250812T173357Z
+UID:11629-1762905600-1762991999@sherwoodcharterschool.org
+SUMMARY:Picture Retake Day
+DESCRIPTION:Retake day is Wednesday\, November 13th. If we did not see you on picture day or you would like a new image\, do not miss out on ordering pictures for your student. If you previously ordered a picture package and will be participating in the retakes\, please send your package with your student to be returned to the photographer. \nOrders may be placed online by searching for Sherwood Charter School at mydorian.com and selecting the green Order button next to the retake day event. Online orders are available up to 2 days after retake day. \nStudents getting their picture taken may wear uniform or nicer on retake day.
+URL:https://sherwoodcharterschool.org/event/picture-retake-day-5/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251112
+DTEND;VALUE=DATE:20251113
+DTSTAMP:20260118T214950
+CREATED:20251117T184944Z
+LAST-MODIFIED:20251117T184944Z
+UID:11944-1762905600-1762991999@sherwoodcharterschool.org
+SUMMARY:Field Trip - 3rd Grade
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-3rd-grade-9/
+CATEGORIES:Field Trip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20251114T163000
+DTEND;TZID=America/Los_Angeles:20251114T180000
+DTSTAMP:20260118T214950
+CREATED:20251030T224049Z
+LAST-MODIFIED:20251113T210455Z
+UID:11923-1763137800-1763143200@sherwoodcharterschool.org
+SUMMARY:Crafty Wares Fair
+DESCRIPTION:Join us for a family friendly Crafty Wares Fair! Facilitated through Sherwood Charter Schools’ middle school art elective\, Leadership Academy students will be gathering from 4:30 – 6pm on Friday\, November 14th to sell their arts and crafts.
+URL:https://sherwoodcharterschool.org/event/crafty-wares-fair-2/
+CATEGORIES:School Events
+ATTACH;FMTTYPE=image/jpeg:https://sherwoodcharterschool.org/wp-content/uploads/2025/10/Crafty-Wares-2025.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+DTSTAMP:20260118T214950
+CREATED:20251117T190011Z
+LAST-MODIFIED:20251117T190011Z
+UID:11951-1763164800-1763251199@sherwoodcharterschool.org
+SUMMARY:Field Trip - MS Robotics
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-ms-robotics-2/
+CATEGORIES:Field Trip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20251118T183000
+DTEND;TZID=America/Los_Angeles:20251118T191500
+DTSTAMP:20260118T214950
+CREATED:20251001T190221Z
+LAST-MODIFIED:20251117T212308Z
+UID:11862-1763490600-1763493300@sherwoodcharterschool.org
+SUMMARY:Middle School Band and Choir Concert
+DESCRIPTION:Join us for our middle school Band and Choir Concert! Doors open at 6:15 pm. \nIf your student is participating\, they should arrive by 5:40pm and come in concert wear. Please contact Mrs. DuPriest with any questions.
+URL:https://sherwoodcharterschool.org/event/middle-school-band-and-choir-concert-8/
+CATEGORIES:School Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251119
+DTEND;VALUE=DATE:20251120
+DTSTAMP:20260118T214950
+CREATED:20251117T184744Z
+LAST-MODIFIED:20251117T184744Z
+UID:11942-1763510400-1763596799@sherwoodcharterschool.org
+SUMMARY:Field Trip - 3rd Grade
+DESCRIPTION:
+URL:https://sherwoodcharterschool.org/event/field-trip-3rd-grade-8/
+CATEGORIES:Field Trip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20251119T180000
+DTEND;TZID=America/Los_Angeles:20251119T190000
+DTSTAMP:20260118T214950
+CREATED:20250806T214409Z
+LAST-MODIFIED:20250806T214409Z
+UID:11580-1763575200-1763578800@sherwoodcharterschool.org
+SUMMARY:Board of Director’s Meeting
+DESCRIPTION:See more information on the Board of Director’s page.
+URL:https://sherwoodcharterschool.org/event/board-of-directors-meeting-74/
+CATEGORIES:Board of Directors
+END:VEVENT
+END:VCALENDAR
