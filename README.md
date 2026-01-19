@@ -7,3 +7,4 @@ ALL of the SSD websites for anyone to inspect.
 
 *@ 01-18-2026*
 
+[pretty html directory](https://wicorn29.github.io/Sherwood-School-District-Websites-01-18-2026/)
